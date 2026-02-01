@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "title": "Creamy Spaghetti Carbonara",
+    "category": "Italian",
+    "badges": ["15 Minute Meals", "Kid Friendly"],
+    "description": "The authentic Roman way. No cream, just eggs, hard cheese, cured pork, and plenty of black pepper.",
+    "prep_time": "10 Mins", "cook_time": "15 Mins", "servings": "2 People",
+    "image_url": "/static/carbonara.jpg",
+    "ingredients": ["350g Spaghetti", "3 Eggs", "100g Pecorino Romano", "150g Guanciale", "Black Pepper"],
+    "steps": [
+      { "title": "Pasta Prep", "text": "Bring a large pot of heavily salted water to a rolling boil. Cook the spaghetti until just 'al dente', typically 1-2 minutes less than the package instructions." },
+      { "title": "Crisp the Pork", "text": "While the pasta cooks, add cubed guanciale to a cold skillet. Turn the heat to medium and cook until the fat renders and the pork becomes golden and crispy." },
+      { "title": "Whisk the Sauce", "text": "In a small bowl, whisk together the fresh eggs and finely grated Pecorino Romano until a thick paste forms. Season generously with freshly cracked black pepper." },
+      { "title": "The Tempering Secret", "text": "Remove the skillet from the heat. Transfer the hot pasta directly into the skillet. Add a splash of starchy pasta water to emulsify with the pork fat." },
+      { "title": "Creamy Emulsion", "text": "Pour the egg and cheese mixture over the pasta. Toss rapidly and continuously; the residual heat will cook the eggs into a silky sauce without scrambling them." }
+    ],
+    "explanation": "Summary: Heat control and rapid tossing are the secrets to a silky, cream-free sauce."
+  },
+  {
+    "id": 2,
+    "title": "Authentic Butter Chicken",
+    "category": "Indian",
+    "badges": ["Stew", "Slow Cooked", "Kid Friendly"],
+    "description": "Tender charred chicken pieces swimming in an incredible creamy tomato curry sauce.",
+    "prep_time": "20 Mins", "cook_time": "40 Mins", "servings": "4 People",
+    "image_url": "/static/butter_chicken.jpg",
+    "ingredients": ["800g Chicken", "1 cup Yogurt", "400g Tomato Puree", "1 cup Cream", "Butter"],
+    "steps": [
+      { "title": "Marination", "text": "Whisk yogurt with ginger-garlic paste and spices. Coat the chicken thighs thoroughly and marinate in the fridge for at least 30 minutes to tenderize the meat." },
+      { "title": "Char-Grilling", "text": "Heat a heavy-bottomed pan or grill. Sear the chicken pieces in batches on high heat until dark brown char marks appear on both sides." },
+      { "title": "The Gravy Base", "text": "In the same pan, melt a large knob of butter. Add tomato puree, sugar, and garam masala. Simmer on low heat until the sauce reduces and darkens." },
+      { "title": "Creamy Finish", "text": "Stir in the heavy cream and a final touch of butter. Return the charred chicken pieces and any resting juices back into the simmering gravy." },
+      { "title": "Slow Simmer", "text": "Cover and cook on low for another 10 minutes until the chicken is fully cooked through and the sauce is thick and velvety. Garnish with fresh cilantro." }
+    ],
+    "explanation": "Summary: The double-cook method creates the deep, smoky flavor profile characteristic of restaurant-style Murgh Makhani."
+  },
+  {
+    "id": 3,
+    "title": "Baja Style Fish Tacos",
+    "category": "Mexican",
+    "badges": ["15 Minute Meals", "Budget Friendly"],
+    "description": "Crispy beer-battered fish with crunchy slaw.",
+    "prep_time": "20 Mins", "cook_time": "15 Mins", "servings": "3 People",
+    "image_url": "/static/fish_tacos.jpg",
+    "ingredients": ["400g White Fish", "1 cup Flour", "1 cup Ice Cold Beer", "6 Corn Tortillas"],
+    "steps": [
+      { "title": "Slaw Prep", "text": "Finely shred cabbage and toss with lime juice, cilantro, and a pinch of salt. Let it sit to soften while you prepare the fish." },
+      { "title": "Cold Batter", "text": "Whisk together flour and ice-cold beer until it reaches the consistency of heavy cream. Keeping the beer cold is vital for a light, crispy crust." },
+      { "title": "Dredge and Dip", "text": "Pat the white fish fillets dry with paper towels. Dust lightly with dry flour, then dip each piece into the cold beer batter until fully coated." },
+      { "title": "The Golden Fry", "text": "Carefully drop the fish into 375°F (190°C) oil. Fry for 3-4 minutes, turning once, until the batter is golden brown and puffed up." },
+      { "title": "Tortilla Assembly", "text": "Warm the corn tortillas on a dry griddle. Place a piece of crispy fish on each, top with the zesty cabbage slaw, and drizzle with chipotle mayo." }
+    ],
+    "explanation": "Summary: Cold beer and dry fish ensure the lightest, most shatteringly crisp batter."
+  },
+  {
+    "id": 4,
+    "title": "Ultimate Grilled Cheese",
+    "category": "Quick Snacks",
+    "badges": ["15 Minute Meals", "Budget Friendly", "Kid Friendly"],
+    "description": "Golden buttery crunch with a molten cheese pull.",
+    "prep_time": "5 Mins", "cook_time": "10 Mins", "servings": "1 Person",
+    "image_url": "/static/grilled_cheese.jpg",
+    "ingredients": ["2 Slices Sourdough", "Cheddar", "2 tbsp Butter"],
+    "steps": [
+      { "title": "The Fat Layer", "text": "Generously spread softened butter or a thin layer of mayo on one side of each bread slice. This ensures a perfectly even, golden crust." },
+      { "title": "Pan Pre-heat", "text": "Place a non-stick skillet over medium-low heat. Do not use high heat, as the bread will burn before the cheese has a chance to melt." },
+      { "title": "Building the Sandwich", "text": "Place one slice butter-side down in the pan. Pile on a mix of sharp cheddar and gruyère for the best flavor and stretch. Top with the second slice." },
+      { "title": "Low and Slow", "text": "Cover the pan with a lid for 2 minutes. The trapped steam helps melt the cheese while the bottom of the bread toasts slowly." },
+      { "title": "The Final Flip", "text": "Once the bottom is deep golden, flip the sandwich. Increase heat slightly and cook uncovered for another 2 minutes until the second side is crispy." }
+    ],
+    "explanation": "Summary: Low-and-slow cooking and a lid are the keys to a perfect melt without burning the bread."
+  },
+  {
+    "id": 5,
+    "title": "Fluffy Blueberry Pancakes",
+    "category": "Breakfast",
+    "badges": ["Kid Friendly", "15 Minute Meals"],
+    "description": "Thick diner-style pancakes with fresh berries.",
+    "prep_time": "10 Mins", "cook_time": "15 Mins", "servings": "2 People",
+    "image_url": "/static/pancakes.jpg",
+    "ingredients": ["1.5 cups Flour", "1 cup Blueberries", "1.25 cups Milk"],
+    "steps": [
+      { "title": "Dry Mix", "text": "Whisk together the flour, sugar, baking powder, and a pinch of salt in a large bowl. This ensures even distribution of the rising agents." },
+      { "title": "Wet to Dry", "text": "Make a well in the center and pour in the milk, melted butter, and egg. Whisk until just combined—a few small lumps are perfectly fine." },
+      { "title": "The Resting Phase", "text": "Crucially, let the batter rest for at least 10 minutes. This allows the flour to fully hydrate and the baking powder to activate for maximum fluffiness." },
+      { "title": "The Sizzle", "text": "Heat a buttered griddle over medium heat. Pour 1/4 cup of batter per pancake. Sprinkle fresh blueberries directly onto the wet batter in the pan." },
+      { "title": "Watch the Bubbles", "text": "Wait until bubbles form on the surface and the edges look set. Flip once and cook for another 1-2 minutes until both sides are golden brown." }
+    ],
+    "explanation": "Summary: Resting the batter is the non-negotiable secret to achieving that thick, airy diner-style texture."
+  },
+  {
+    "id": 6,
+    "title": "Molten Chocolate Lava Cake",
+    "category": "Dessert",
+    "badges": ["Kid Friendly"],
+    "description": "Sponge cake shell with a flowing hot chocolate center.",
+    "prep_time": "15 Mins", "cook_time": "12 Mins", "servings": "2 People",
+    "image_url": "/static/lava_cake.jpg",
+    "ingredients": ["100g Chocolate", "100g Butter", "2 Eggs", "100g Sugar"],
+    "steps": [
+      { "title": "Melt and Shine", "text": "Melt the high-quality dark chocolate and butter together in a double boiler or microwave in 20-second bursts until glossy and smooth." },
+      { "title": "Aerating Eggs", "text": "In a separate bowl, whisk the eggs and sugar on high speed for 3-4 minutes until the mixture is pale, thick, and has doubled in volume." },
+      { "title": "Gentle Folding", "text": "Slowly pour the chocolate mixture into the eggs. Use a spatula to fold gently, being careful not to deflate the air you just whisked in." },
+      { "title": "Ramekin Prep", "text": "Butter two ramekins thoroughly and dust them with cocoa powder. This creates a non-stick barrier that ensures the cakes slide out easily." },
+      { "title": "Precise Bake", "text": "Bake at 400°F (200°C) for exactly 12 minutes. The edges should be firm, but the center should still look soft and slightly wobbly." }
+    ],
+    "explanation": "Summary: Precise timing and aerating the eggs are the only secrets to achieving the perfect molten center."
+  },
+  {
+    "id": 7,
+    "title": "Fresh Greek Salad",
+    "category": "Salad",
+    "badges": ["15 Minute Meals", "Budget Friendly"],
+    "description": "Crunchy refreshing salad with high quality feta.",
+    "prep_time": "15 Mins", "cook_time": "0 Mins", "servings": "2 People",
+    "image_url": "/static/greek_salad.jpg",
+    "ingredients": ["Cucumber", "Tomatoes", "Feta", "Olives"],
+    "steps": [
+      { "title": "Onion Soak", "text": "Slice red onions into thin rings and soak them in ice water for 10 minutes. This removes their harsh, stinging bite while keeping them crunchy." },
+      { "title": "Rustic Chops", "text": "Cut ripe tomatoes and seedless cucumbers into large, irregular chunks. Traditional 'Horiatiki' does not use lettuce." },
+      { "title": "Vinaigrette Base", "text": "In a small jar, shake together high-quality extra virgin olive oil, dried oregano, red wine vinegar, and a pinch of salt." },
+      { "title": "Gentle Toss", "text": "Combine the tomatoes, cucumbers, olives, and drained onions in a large bowl. Toss lightly with half of the dressing." },
+      { "title": "The Whole Block", "text": "Transfer to a serving plate and place a whole block of feta cheese on top. Drizzle with the remaining dressing and a final pinch of oregano." }
+    ],
+    "explanation": "Summary: Horiatiki is a celebration of simple produce; using the best olive oil and feta you can find is essential."
+  },
+  {
+    "id": 8,
+    "title": "Garlic Butter Steak",
+    "category": "Dinner",
+    "badges": ["One Pot"],
+    "description": "Restaurant quality steak seared with garlic thyme butter.",
+    "prep_time": "5 Mins", "cook_time": "10 Mins", "servings": "1 Person",
+    "image_url": "/static/steak.jpg",
+    "ingredients": ["Ribeye Steak", "3 tbsp Butter", "Garlic", "Thyme"],
+    "steps": [
+      { "title": "The Dry Surface", "text": "Pat the steak bone-dry with paper towels on both sides. Season generously with kosher salt and black pepper just before cooking." },
+      { "title": "Smoking Point", "text": "Heat a cast-iron skillet until it is smoking hot. Add a high-smoke-point oil (like avocado oil) and swirl to coat the bottom." },
+      { "title": "The Hard Sear", "text": "Lay the steak in the pan away from you. Let it sear undisturbed for 3-4 minutes to develop a deep, mahogany crust before flipping." },
+      { "title": "The Butter Baste", "text": "Turn the heat to medium. Add butter, crushed garlic cloves, and fresh thyme. Tilt the pan and spoon the foaming butter over the steak repeatedly." },
+      { "title": "The Essential Rest", "text": "Remove the steak at 5°F below your target temperature. Let it rest on a cutting board for at least 7 minutes to allow juices to redistribute." }
+    ],
+    "explanation": "Summary: Constant butter basting and a long rest period are what separate home steaks from restaurant quality."
+  },
+  {
+    "id": 9,
+    "title": "Classic Margherita Pizza",
+    "category": "Italian",
+    "badges": ["Budget Friendly", "Kid Friendly"],
+    "description": "Thin crust with San Marzano tomatoes, fresh mozzarella, and basil.",
+    "prep_time": "20 Mins", "cook_time": "10 Mins", "servings": "2 People",
+    "image_url": "/static/pizza_margherita.jpg",
+    "ingredients": ["Pizza Dough", "Tomato Sauce", "Mozzarella", "Fresh Basil"],
+    "steps": [
+      { "title": "Stone Prep", "text": "Preheat your oven to its highest setting (500°F/260°C) with a pizza stone or baking steel inside for at least 45 minutes." },
+      { "title": "Dough Handling", "text": "On a floured surface, stretch the dough by hand rather than using a rolling pin to preserve the air bubbles in the crust." },
+      { "title": "The Sauce Layer", "text": "Spread a thin layer of crushed San Marzano tomatoes over the dough, leaving a 1-inch border for the crust to rise." },
+      { "title": "Cheese Placement", "text": "Tear fresh mozzarella into small chunks and distribute evenly. Fresh mozzarella has high moisture, so don't overload the center." },
+      { "title": "The High Heat Bake", "text": "Slide the pizza onto the hot stone. Bake for 8-10 minutes until the crust is charred in spots and the cheese is bubbling. Add fresh basil immediately after baking." }
+    ],
+    "explanation": "Summary: High heat and hand-stretching the dough are the keys to an authentic thin, crispy-yet-chewy Italian crust."
+  },
+  {
+    "id": 10,
+    "title": "Mushroom Risotto",
+    "category": "Italian",
+    "badges": ["Slow Cooked"],
+    "description": "Creamy arborio rice infused with earthy mushrooms and parmesan.",
+    "prep_time": "10 Mins", "cook_time": "30 Mins", "servings": "3 People",
+    "image_url": "/static/risotto.jpg",
+    "ingredients": ["Arborio Rice", "Mushrooms", "Broth", "Parmesan", "White Wine"],
+    "steps": [
+      { "title": "The Broth Rule", "text": "Keep your vegetable or chicken broth simmering in a separate pot. Adding cold broth to the rice will stop the cooking process." },
+      { "title": "Toast the Rice", "text": "Sauté mushrooms and shallots in butter. Add the arborio rice and stir for 2 minutes until the edges look translucent but the center is still white." },
+      { "title": "Deglaze", "text": "Pour in the dry white wine. Stir constantly until the wine is completely absorbed by the rice grains." },
+      { "title": "The Stirring Method", "text": "Add broth one ladle at a time. Stir almost continuously; this friction releases the starch that creates the creamy sauce." },
+      { "title": "Mantecatura", "text": "Once the rice is tender but still has a bite, remove from heat. Vigorously stir in cold butter and plenty of parmesan for a glossy finish." }
+    ],
+    "explanation": "Summary: The creaminess of risotto comes from the starch released through constant stirring, not from added cream."
+  },
+  {
+    "id": 11,
+    "title": "Palak Paneer",
+    "category": "Indian",
+    "badges": ["Stew", "Budget Friendly"],
+    "description": "Cottage cheese cubes in a smooth, spiced spinach gravy.",
+    "prep_time": "15 Mins", "cook_time": "20 Mins", "servings": "3 People",
+    "image_url": "/static/palak_paneer.jpg",
+    "ingredients": ["Paneer", "Spinach", "Ginger-Garlic Paste", "Garam Masala"],
+    "steps": [
+      { "title": "Blanch and Shock", "text": "Boil the fresh spinach for exactly 2 minutes, then immediately plunge it into ice water. This 'shocks' the spinach and preserves its vibrant green color." },
+      { "title": "The Green Base", "text": "Blend the cooled spinach with green chilies and a splash of water until you achieve a perfectly smooth, bright green puree." },
+      { "title": "Tempering Spices", "text": "Heat oil in a pan and sauté cumin seeds and ginger-garlic paste until fragrant. Add tomato puree and cook until the oil begins to separate." },
+      { "title": "The Gentle Simmer", "text": "Pour in the spinach puree and add garam masala. Stir in the paneer cubes carefully so they don't break apart." },
+      { "title": "Final Softening", "text": "Simmer for 5 minutes on low heat. Add a splash of cream or a dollop of butter at the end to balance the earthy flavor of the spinach." }
+    ],
+    "explanation": "Summary: Shocking the spinach in ice water is the professional secret to keeping the curry bright green rather than dull brown."
+  },
+  {
+    "id": 12,
+    "title": "Chicken Tikka Masala",
+    "category": "Indian",
+    "badges": ["Slow Cooked", "Dinner"],
+    "description": "Roasted marinated chicken chunks in a spiced, orange-colored sauce.",
+    "prep_time": "20 Mins", "cook_time": "35 Mins", "servings": "4 People",
+    "image_url": "/static/tikka_masala.jpg",
+    "ingredients": ["Chicken Thighs", "Tomato Sauce", "Heavy Cream", "Paprika", "Cumin"],
+    "steps": [
+      { "title": "The Yogurt Seal", "text": "Marinate chicken in yogurt and lemon juice for at least 2 hours. This acidic mixture breaks down tough fibers for ultra-tender meat." },
+      { "title": "The Initial Char", "text": "Broil the chicken on high heat or grill it until the surface is charred and blackened in spots. This mimics the traditional clay tandoor flavor." },
+      { "title": "Aromatic Base", "text": "Sauté finely chopped onions until deep golden brown. Stir in tomato puree and a blend of turmeric, cumin, and coriander." },
+      { "title": "Sauce Reduction", "text": "Simmer the tomato base until it thickens into a paste. Add the charred chicken and any juices that escaped during resting." },
+      { "title": "Velvety Finish", "text": "Lower the heat and stir in the heavy cream. The sauce should turn a beautiful sunset orange. Simmer gently until the chicken is tender." }
+    ],
+    "explanation": "Summary: Charring the chicken separately and then finishing it in the creamy sauce creates the signature smoky-sweet balance."
+  },
+  {
+    "id": 13,
+    "title": "Beef Enchiladas",
+    "category": "Mexican",
+    "badges": ["Dinner", "Kid Friendly"],
+    "description": "Corn tortillas stuffed with seasoned beef and smothered in red sauce.",
+    "prep_time": "15 Mins", "cook_time": "25 Mins", "servings": "4 People",
+    "image_url": "/static/enchiladas.jpg",
+    "ingredients": ["Ground Beef", "Tortillas", "Enchilada Sauce", "Cheese"],
+    "steps": [
+      { "title": "Filling Flavor", "text": "Brown the ground beef with onions. Drain excess fat and stir in taco seasoning and a splash of the enchilada sauce for moisture." },
+      { "title": "Tortilla Pliability", "text": "Briefly warm each corn tortilla in a dry pan for 10 seconds. This prevents them from cracking when you roll them up later." },
+      { "title": "The Assembly Line", "text": "Dip each tortilla into the enchilada sauce first, then fill with beef and cheese. Roll tightly and place seam-side down in a baking dish." },
+      { "title": "Sauce and Smother", "text": "Pour the remaining red enchilada sauce over the top. Cover generously with a blend of Monterey Jack and sharp cheddar cheese." },
+      { "title": "The Crisp Finish", "text": "Bake at 375°F (190°C) for 20 minutes until the cheese is bubbling and the edges of the tortillas are slightly crispy." }
+    ],
+    "explanation": "Summary: Dipping the tortillas in sauce before rolling ensures they stay moist and flavorful inside the oven."
+  },
+  {
+    "id": 14,
+    "title": "Homemade Guacamole",
+    "category": "Mexican",
+    "badges": ["Quick Snacks", "Budget Friendly"],
+    "description": "Creamy avocados mashed with lime, onion, and cilantro.",
+    "prep_time": "10 Mins", "cook_time": "0 Mins", "servings": "4 People",
+    "image_url": "/static/guacamole.jpg",
+    "ingredients": ["3 Avocados", "Lime Juice", "Red Onion", "Cilantro"],
+    "steps": [
+      { "title": "The Ripeness Test", "text": "Ensure your avocados are ripe by gently pressing the skin; they should feel soft but not mushy. Remove the pits and scoop the flesh into a bowl." },
+      { "title": "The Chunky Mash", "text": "Use a fork or potato masher to crush the avocados. Stop while there are still some small chunks left; a completely smooth guacamole lacks texture." },
+      { "title": "Acid Shield", "text": "Immediately stir in fresh lime juice. The acid not only provides flavor but prevents the avocado from turning brown through oxidation." },
+      { "title": "Aromatic Add-ins", "text": "Finely dice the red onion, jalapeño, and cilantro. Stir them gently into the mash so you don't over-process the avocado." },
+      { "title": "The Salt Step", "text": "Season with kosher salt to taste. Let the guacamole sit for 10 minutes before serving to allow the onion and lime flavors to meld." }
+    ],
+    "explanation": "Summary: Using fresh lime juice immediately after mashing is the only way to keep your guacamole bright green for hours."
+  },
+  {
+    "id": 15,
+    "title": "Buffalo Chicken Wings",
+    "category": "Quick Snacks",
+    "badges": ["One Pot", "Kid Friendly"],
+    "description": "Crispy wings tossed in a spicy, buttery buffalo sauce.",
+    "prep_time": "10 Mins", "cook_time": "30 Mins", "servings": "2 People",
+    "image_url": "/static/buffalo_wings.jpg",
+    "ingredients": ["Chicken Wings", "Hot Sauce", "Butter", "Honey"],
+    "steps": [
+      { "title": "Drying the Skin", "text": "Pat the wings thoroughly dry with paper towels. For extra crunch, leave them uncovered in the fridge for an hour to air-dry the skin." },
+      { "title": "The Crisp Bake", "text": "Toss the wings in a small amount of baking powder and salt. Bake on a wire rack at 425°F (220°C) for 30-40 minutes until rendered and crispy." },
+      { "title": "Emulsified Sauce", "text": "While the wings bake, melt butter in a saucepan. Whisk in Frank's RedHot sauce and a teaspoon of honey until perfectly smooth." },
+      { "title": "The Hot Toss", "text": "As soon as the wings come out of the oven, transfer them to a large bowl and pour the warm buffalo sauce over them." },
+      { "title": "Immediate Serve", "text": "Toss vigorously until every wing is coated. Serve immediately with celery sticks and blue cheese dressing to maintain the crispness." }
+    ],
+    "explanation": "Summary: Air-drying the skin and using a wire rack ensures oven-baked wings are just as crispy as deep-fried ones."
+  },
+  {
+    "id": 16,
+    "title": "Homemade Hummus",
+    "category": "Quick Snacks",
+    "badges": ["15 Minute Meals", "Budget Friendly"],
+    "description": "Smooth chickpea dip with tahini, garlic, and lemon.",
+    "prep_time": "10 Mins", "cook_time": "0 Mins", "servings": "4 People",
+    "image_url": "/static/hummus.jpg",
+    "ingredients": ["Chickpeas", "Tahini", "Lemon Juice", "Olive Oil"],
+    "steps": [
+      { "title": "Peeling Tip", "text": "For ultra-smooth hummus, rub the canned chickpeas between your hands in a bowl of water to remove the thin skins. They will float to the top." },
+      { "title": "Garlic Infusion", "text": "Process the garlic and lemon juice first in a food processor. Let the mixture sit for a minute to allow the acid to mellow the raw garlic bite." },
+      { "title": "Tahini Cream", "text": "Add the tahini and pulse until the mixture becomes thick and creamy. It may look grainy at first, but keep processing." },
+      { "title": "The Ice Secret", "text": "Add the chickpeas and process for 3 minutes. While the motor is running, drizzle in 2-3 tablespoons of ice-cold water for a fluffy texture." },
+      { "title": "The Final Emulsion", "text": "Slowly drizzle in high-quality olive oil until the hummus is light and airy. Garnish with paprika and a well of olive oil in the center." }
+    ],
+    "explanation": "Summary: Removing the chickpea skins and adding ice water are the two professional secrets to achieving a light, airy, restaurant-quality dip."
+  },
+  {
+    "id": 17,
+    "title": "Classic Eggs Benedict",
+    "category": "Breakfast",
+    "badges": ["Slow Cooked"],
+    "description": "Poached eggs and ham on English muffins with hollandaise sauce.",
+    "prep_time": "15 Mins", "cook_time": "15 Mins", "servings": "2 People",
+    "image_url": "/static/eggs_benedict.jpg",
+    "ingredients": ["Eggs", "English Muffins", "Canadian Bacon", "Butter"],
+    "steps": [
+      { "title": "Hollandaise Base", "text": "In a blender, combine egg yolks and lemon juice. While blending on low, very slowly drizzle in hot, melted clarified butter." },
+      { "title": "The Poaching Vortex", "text": "Bring water to a bare simmer. Create a gentle whirlpool with a spoon and drop the fresh eggs into the center to keep the whites tight." },
+      { "title": "Poach Timing", "text": "Cook for exactly 3 minutes. The whites should be set, but the yolk must remain completely liquid. Transfer to a paper towel to drain." },
+      { "title": "English Muffin Prep", "text": "Split and toast English muffins until the edges are dark brown. Sear the Canadian bacon in a pan until warm and slightly caramelized." },
+      { "title": "The Stacking", "text": "Layer the bacon on the muffin, followed by the poached egg. Spoon the warm hollandaise generously over the top and garnish with chives." }
+    ],
+    "explanation": "Summary: Clarified butter and fresh, room-temperature eggs are the keys to a stable hollandaise and a perfect poach."
+  },
+  {
+    "id": 18,
+    "title": "Avocado Toast",
+    "category": "Breakfast",
+    "badges": ["15 Minute Meals", "Budget Friendly"],
+    "description": "Smashed avocado on sourdough with chili flakes and a soft egg.",
+    "prep_time": "5 Mins", "cook_time": "5 Mins", "servings": "1 Person",
+    "image_url": "/static/avocado_toast.jpg",
+    "ingredients": ["Sourdough", "Avocado", "Red Pepper Flakes", "Egg"],
+    "steps": [
+      { "title": "Sourdough Toasting", "text": "Toast thick slices of sourdough in a pan with a little olive oil until they are deep golden and very crunchy." },
+      { "title": "The Mash", "text": "Mash a ripe avocado in a small bowl with lime juice, salt, and red pepper flakes. Don't over-mash; keep it slightly rustic." },
+      { "title": "Egg Style", "text": "Prepare your egg to your preference. A 6-minute soft-boiled egg or a sunny-side-up fried egg with a runny yolk works best." },
+      { "title": "Building Layers", "text": "Spread the seasoned avocado generously across the warm sourdough. Ensure you cover the edges of the bread." },
+      { "title": "Final Garnish", "text": "Top with the warm egg. Sprinkle with more chili flakes, flaky sea salt, and a final drizzle of extra virgin olive oil." }
+    ],
+    "explanation": "Summary: The contrast between the crunchy sourdough and the creamy avocado is what makes this simple dish work."
+  },
+  {
+    "id": 19,
+    "title": "Classic Cheesecake",
+    "category": "Dessert",
+    "badges": ["Slow Cooked"],
+    "description": "Rich and creamy New York style cheesecake with a graham crust.",
+    "prep_time": "30 Mins", "cook_time": "60 Mins", "servings": "8 People",
+    "image_url": "/static/cheesecake.jpg",
+    "ingredients": ["Cream Cheese", "Graham Crackers", "Sugar", "Vanilla"],
+    "steps": [
+      { "title": "Crust Integrity", "text": "Mix graham cracker crumbs with melted butter and a pinch of salt. Press firmly into the bottom of a springform pan and bake for 8 minutes." },
+      { "title": "Room Temp Rule", "text": "Ensure your cream cheese and eggs are completely at room temperature. Cold cheese will create lumps that are impossible to whisk out later." },
+      { "title": "The Gentle Mix", "text": "Beat the cream cheese and sugar on low speed. Adding too much air will cause the cheesecake to rise and then crack in the oven." },
+      { "title": "Water Bath", "text": "Wrap the pan in heavy-duty foil and place it in a larger roasting pan filled with 1 inch of hot water. This provides gentle, moist heat." },
+      { "title": "Slow Cool", "text": "After baking, turn the oven off and leave the door slightly ajar. Let the cake cool inside for 1 hour to prevent sudden temperature drops." }
+    ],
+    "explanation": "Summary: A water bath and room-temperature ingredients are the only ways to achieve a crack-free, silky New York texture."
+  },
+  {
+    "id": 20,
+    "title": "Fudgy Brownies",
+    "category": "Dessert",
+    "badges": ["Kid Friendly", "Budget Friendly"],
+    "description": "Dense, ultra-chocolatey brownies with a crinkle top.",
+    "prep_time": "10 Mins", "cook_time": "25 Mins", "servings": "9 People",
+    "image_url": "/static/brownies.jpg",
+    "ingredients": ["Cocoa Powder", "Flour", "Butter", "Eggs", "Chocolate Chips"],
+    "steps": [
+      { "title": "Butter and Sugar", "text": "Melt the butter and whisk it vigorously with the sugar while still warm. This helps dissolve the sugar, which creates the shiny crinkle top." },
+      { "title": "The Egg Whip", "text": "Add the eggs and vanilla. Whisk for 2 full minutes. This aeration creates the structure needed for a fudgy center." },
+      { "title": "Sifted Drys", "text": "Sift in the cocoa powder and flour. Sifting prevents lumps and ensures the cocoa is evenly distributed without over-mixing." },
+      { "title": "Fold, Don't Stir", "text": "Gently fold in the chocolate chips with a spatula. Stop mixing as soon as you see no more streaks of white flour." },
+      { "title": "The Under-bake", "text": "Bake at 350°F (175°C) for 22-25 minutes. A toothpick should come out with moist crumbs, not clean. They will firm up as they cool." }
+    ],
+    "explanation": "Summary: Dissolving the sugar in warm butter and slightly under-baking are the keys to a fudgy center and a professional shiny top."
+  },
+  {
+    "id": 21,
+    "title": "Chicken Caesar Salad",
+    "category": "Salad",
+    "badges": ["15 Minute Meals", "Dinner"],
+    "description": "Crisp Romaine with grilled chicken, sourdough croutons, and a creamy house-made dressing.",
+    "prep_time": "15 Mins", "cook_time": "10 Mins", "servings": "2 People",
+    "image_url": "/static/caesar_salad.jpg",
+    "ingredients": ["Romaine", "Chicken", "Croutons", "Parmesan", "Caesar Dressing"],
+    "steps": [
+      { "title": "Garlic Croutons", "text": "Toss sourdough cubes with olive oil and garlic powder. Bake at 375°F until golden brown and shatteringly crisp." },
+      { "title": "The Dressing", "text": "Whisk egg yolk, Dijon mustard, and anchovy paste. Slowly drizzle in oil while whisking to create a thick emulsion, then add lemon and parmesan." },
+      { "title": "Grilled Protein", "text": "Season chicken breast with salt and pepper. Grill over medium-high heat until the internal temperature reaches 165°F, then let it rest." },
+      { "title": "Greens Prep", "text": "Wash and thoroughly dry Romaine lettuce. Tear into bite-sized pieces and grate fresh flakes of high-quality parmesan cheese." },
+      { "title": "Assembly", "text": "Toss the lettuce with enough dressing to coat. Top with sliced chicken, croutons, and extra parmesan before serving immediately." }
+    ],
+    "explanation": "Summary: Freshly made croutons and a hand-whisked dressing elevate this simple salad to restaurant quality."
+  },
+  {
+    "id": 22,
+    "title": "Quinoa Veggie Bowl",
+    "category": "Salad",
+    "badges": ["One Pot", "Budget Friendly"],
+    "description": "A nutrient-dense balance of fluffy quinoa, roasted sweet potatoes, and massaged kale.",
+    "prep_time": "10 Mins", "cook_time": "20 Mins", "servings": "2 People",
+    "image_url": "/static/quinoa_bowl.jpg",
+    "ingredients": ["Quinoa", "Sweet Potato", "Kale", "Lemon Tahini Dressing", "Chickpeas"],
+    "steps": [
+      { "title": "Fluffy Quinoa", "text": "Rinse quinoa thoroughly. Simmer in vegetable broth rather than water to infuse the grains with deep savory flavor." },
+      { "title": "Roasted Foundation", "text": "Cube sweet potatoes and toss with chickpeas, oil, and cumin. Roast at 400°F until the potatoes are tender and the chickpeas are crispy." },
+      { "title": "Massage the Greens", "text": "Place kale in a bowl with lemon juice and a pinch of salt. Massage with your hands for 2 minutes to break down the tough fibers." },
+      { "title": "Tahini Drizzle", "text": "Blend tahini, lemon juice, a clove of garlic, and a splash of warm water until the dressing is smooth and pourable." },
+      { "title": "Layering", "text": "Place a base of quinoa in a bowl. Arrange the roasted veggies and kale on top, then drizzle generously with the tahini sauce." }
+    ],
+    "explanation": "Summary: Massaging the kale and cooking quinoa in broth are the two steps that transform this from a simple salad to a gourmet meal."
+  },
+  {
+    "id": 23,
+    "title": "Pan-Seared Salmon",
+    "category": "Dinner",
+    "badges": ["15 Minute Meals"],
+    "description": "Perfectly crispy skin salmon finished with a bright lemon-dill butter pan sauce.",
+    "prep_time": "5 Mins", "cook_time": "10 Mins", "servings": "2 People",
+    "image_url": "/static/salmon.jpg",
+    "ingredients": ["Salmon Fillets", "Lemon", "Dill", "Butter", "Capers"],
+    "steps": [
+      { "title": "Skin Prep", "text": "Use a knife to scrape any moisture off the salmon skin. Pat the entire fillet bone-dry with paper towels for maximum crispness." },
+      { "title": "The First Sear", "text": "Place salmon skin-side down in a hot skillet with high-smoke-point oil. Press down firmly with a spatula for 30 seconds to prevent curling." },
+      { "title": "Undisturbed Cook", "text": "Let the salmon cook skin-side down for about 6-7 minutes. Do not move it until the skin naturally releases from the pan." },
+      { "title": "The Quick Flip", "text": "Flip the salmon and cook the flesh side for only 1-2 minutes. This keeps the center tender and prevents the fish from drying out." },
+      { "title": "Butter Baste", "text": "Add a knob of butter, lemon slices, and fresh dill to the pan. Spoon the melting lemon-butter over the crispy skin before serving." }
+    ],
+    "explanation": "Summary: Achieving shatteringly crispy skin requires a perfectly dry surface and constant pressure during the initial sear."
+  },
+  {
+    "id": 24,
+    "title": "Beef Stew",
+    "category": "Dinner",
+    "badges": ["Slow Cooked", "Stew"],
+    "description": "Hearty, fork-tender beef simmered in a rich red wine and herb gravy with root vegetables.",
+    "prep_time": "20 Mins", "cook_time": "120 Mins", "servings": "6 People",
+    "image_url": "/static/beef_stew.jpg",
+    "ingredients": ["Beef Chuck", "Potatoes", "Carrots", "Beef Stock", "Thyme", "Red Wine"],
+    "steps": [
+      { "title": "Developing Crust", "text": "Toss beef cubes in flour and salt. Sear in a heavy pot in small batches until a deep brown crust develops on all sides." },
+      { "title": "Aromatic Base", "text": "Remove the beef. Sauté onions, carrots, and celery in the remaining fat until soft, picking up the brown bits from the bottom." },
+      { "title": "The Deglaze", "text": "Pour in a cup of dry red wine. Use a wooden spoon to scrape the flavorful 'fond' off the bottom of the pot as the wine reduces." },
+      { "title": "Long Simmer", "text": "Return the beef to the pot. Add beef stock, bay leaves, and fresh thyme. Cover and simmer on low heat for at least 90 minutes." },
+      { "title": "Root Veggies", "text": "Add potatoes during the last 30 minutes of cooking. This prevents them from turning to mush while they soak up the rich gravy." }
+    ],
+    "explanation": "Summary: Searing the beef in batches and deglazing the pot are essential for creating a stew with deep, complex flavors."
+  },
+  {
+    "id": 25,
+    "title": "Pesto Pasta",
+    "category": "Italian",
+    "badges": ["15 Minute Meals", "Budget Friendly"],
+    "description": "Al dente pasta tossed in a vibrant, hand-made basil and pine nut pesto sauce.",
+    "prep_time": "10 Mins", "cook_time": "10 Mins", "servings": "2 People",
+    "image_url": "/static/pesto_pasta.jpg",
+    "ingredients": ["Pasta", "Fresh Basil", "Pine Nuts", "Garlic", "Parmesan", "Olive Oil"],
+    "steps": [
+      { "title": "Pesto Base", "text": "Pulse fresh basil leaves, toasted pine nuts, and garlic in a food processor until they are finely minced but not yet a paste." },
+      { "title": "Emulsification", "text": "With the motor running, slowly drizzle in extra virgin olive oil until the sauce becomes smooth and bright green." },
+      { "title": "Pasta Prep", "text": "Boil your choice of pasta in heavily salted water. Reserve exactly one cup of the starchy cooking water before draining." },
+      { "title": "Tempering Sauce", "text": "In a large bowl, whisk a small amount of the hot pasta water into the cold pesto. This warms the sauce gently without cooking the basil." },
+      { "title": "The Toss", "text": "Combine the pasta with the pesto mixture. Stir in fresh parmesan cheese off the heat to maintain the vibrant color and prevent clumping." }
+    ],
+    "explanation": "Summary: Never heat pesto directly in a pan; the residual heat of the pasta and water is enough to create a perfect sauce while keeping the basil fresh."
+  },
+  {
+    "id": 26,
+    "title": "Minestrone Soup",
+    "category": "Italian",
+    "badges": ["One Pot", "Budget Friendly"],
+    "description": "A thick, classic Italian vegetable soup featuring beans, seasonal greens, and small pasta.",
+    "prep_time": "15 Mins", "cook_time": "30 Mins", "servings": "4 People",
+    "image_url": "/static/minestrone.jpg",
+    "ingredients": ["Zucchini", "Beans", "Pasta", "Tomato Broth", "Celery", "Spinach"],
+    "steps": [
+      { "title": "Soffritto", "text": "Sauté onions, celery, and carrots (the soffritto) in olive oil until they are soft and fragrant, providing the flavor foundation." },
+      { "title": "Hearty Veggies", "text": "Stir in zucchini, tomato paste, and canned cannellini beans. Cook for 5 minutes to let the tomato paste darken and sweeten." },
+      { "title": "Simmering Broth", "text": "Add vegetable broth, diced tomatoes, and dried Italian herbs. Bring to a boil, then reduce heat and simmer for 15 minutes." },
+      { "title": "Pasta Addition", "text": "Add small pasta shapes like ditalini or elbow macaroni directly into the soup. Cook until the pasta is al dente." },
+      { "title": "The Green Finish", "text": "Stir in fresh spinach or kale during the last 2 minutes of cooking. Serve with a heavy dusting of parmesan and a drizzle of oil." }
+    ],
+    "explanation": "Summary: Adding the pasta directly to the broth allows it to absorb the soup's flavor while releasing starch to thicken the liquid."
+  },
+  {
+    "id": 27,
+    "title": "Chana Masala",
+    "category": "Indian",
+    "badges": ["Stew", "Budget Friendly"],
+    "description": "A spicy and tangy North Indian chickpea curry simmered in a rich tomato and onion gravy.",
+    "prep_time": "10 Mins", "cook_time": "20 Mins", "servings": "3 People",
+    "image_url": "/static/chana_masala.jpg",
+    "ingredients": ["Chickpeas", "Cumin", "Ginger", "Tomato Puree", "Amchoor", "Green Chilies"],
+    "steps": [
+      { "title": "Aromatic Base", "text": "Sauté finely diced onions until they are deep golden brown. Add ginger-garlic paste and fresh green chilies; cook until the raw smell disappears." },
+      { "title": "Spice Blooming", "text": "Lower the heat and add cumin, coriander, turmeric, and chili powder. Stir for 1 minute to 'bloom' the spices in the hot oil." },
+      { "title": "Tomato Reduction", "text": "Pour in tomato puree and a pinch of salt. Cook until the sauce reduces and the oil begins to separate at the edges of the pan." },
+      { "title": "Chickpea Simmer", "text": "Add canned chickpeas and a splash of water. Use a spoon to mash a few chickpeas against the side of the pan to thicken the gravy." },
+      { "title": "The Tangy Secret", "text": "Stir in amchoor (dried mango powder) and garam masala. Simmer for 5 minutes and garnish with ginger matchsticks and cilantro." }
+    ],
+    "explanation": "Summary: Mashing some of the chickpeas and using amchoor powder are the keys to achieving that authentic, thick, and tangy street-food texture."
+  },
+  {
+    "id": 28,
+    "title": "Vegetable Biryani",
+    "category": "Indian",
+    "badges": ["Slow Cooked", "Dinner"],
+    "description": "Fragrant long-grain basmati rice layered with spiced vegetables, saffron, and aromatic herbs.",
+    "prep_time": "25 Mins", "cook_time": "45 Mins", "servings": "4 People",
+    "image_url": "/static/biryani.jpg",
+    "ingredients": ["Basmati Rice", "Mixed Veggies", "Saffron", "Yogurt", "Mint", "Fried Onions"],
+    "steps": [
+      { "title": "Rice Par-boiling", "text": "Boil basmati rice with whole cloves and cardamom. Drain when the rice is exactly 70% cooked (it should still have a firm bite)." },
+      { "title": "Veggie Masala", "text": "Sauté mixed vegetables with biryani masala, yogurt, and mint. Cook until the veggies are tender but still hold their shape." },
+      { "title": "The Layering", "text": "In a heavy pot, layer the veggie masala first, then top with the par-boiled rice. Repeat layers if necessary." },
+      { "title": "Aromatic Infusion", "text": "Drizzle saffron-infused milk and ghee over the top layer of rice. Sprinkle with fresh mint and crispy fried onions." },
+      { "title": "Dum Steam", "text": "Seal the pot tightly with foil and a lid. Cook on the lowest possible heat (Dum) for 15 minutes to let the flavors meld and the rice finish cooking." }
+    ],
+    "explanation": "Summary: The 'Dum' method of sealing the pot ensures that the steam carries the aroma of the spices through every grain of rice."
+  },
+  {
+    "id": 29,
+    "title": "Beef Tacos",
+    "category": "Mexican",
+    "badges": ["15 Minute Meals", "Kid Friendly"],
+    "description": "Classic, well-seasoned ground beef tacos served in crispy shells with fresh toppings.",
+    "prep_time": "10 Mins", "cook_time": "10 Mins", "servings": "4 People",
+    "image_url": "/static/beef_tacos.jpg",
+    "ingredients": ["Ground Beef", "Taco Shells", "Lettuce", "Salsa", "Sour Cream", "Cheese"],
+    "steps": [
+      { "title": "Browning Beef", "text": "Cook ground beef in a large skillet over medium-high heat. Use a spatula to break the meat into very small, uniform crumbles." },
+      { "title": "Removing Excess", "text": "Carefully drain the excess fat from the pan. This ensures the taco meat is flavorful but not greasy or soggy." },
+      { "title": "The Seasoning", "text": "Add taco spices and a small splash of water. Simmer until the water evaporates, leaving the meat coated in a thick, savory glaze." },
+      { "title": "Shell Toasting", "text": "Place crispy taco shells in a 350°F oven for 3-5 minutes. Warming them revives their crunch and helps them hold more toppings." },
+      { "title": "The Build", "text": "Fill the warm shells with beef, then layer with shredded lettuce, diced tomatoes, and plenty of grated cheddar cheese." }
+    ],
+    "explanation": "Summary: Breaking the meat into small crumbles and toasting the shells are the two simple steps that make home tacos feel professional."
+  },
+  {
+    "id": 30,
+    "title": "Shakshuka",
+    "category": "Breakfast",
+    "badges": ["One Pot", "Budget Friendly"],
+    "description": "Poached eggs in a simmering, Mediterranean-style tomato and red pepper sauce.",
+    "prep_time": "10 Mins", "cook_time": "20 Mins", "servings": "2 People",
+    "image_url": "/static/shakshuka.jpg",
+    "ingredients": ["Eggs", "Bell Peppers", "Tomato Sauce", "Feta", "Paprika", "Cumin"],
+    "steps": [
+      { "title": "Veggie Sauté", "text": "Sauté diced bell peppers and onions in olive oil until they are soft and slightly caramelized to bring out their natural sweetness." },
+      { "title": "Sauce Simmer", "text": "Stir in tomato puree, garlic, cumin, and smoked paprika. Simmer on medium-low until the sauce thickens into a rich base." },
+      { "title": "The Egg Wells", "text": "Use the back of a large spoon to make four small indentations or 'wells' in the simmering tomato sauce." },
+      { "title": "The Poach", "text": "Crack a fresh egg into each well. Season the yolks with a tiny pinch of salt and black pepper." },
+      { "title": "Setting the Whites", "text": "Cover the pan with a lid and cook for 5-8 minutes. The goal is to have fully set whites while keeping the yolks perfectly runny." }
+    ],
+    "explanation": "Summary: Covering the pan creates the gentle steam needed to poach the eggs perfectly from the top while the sauce flavors them from below."
+  },
+  {
+    "id": 31,
+    "title": "Apple Crisp",
+    "category": "Dessert",
+    "badges": ["Kid Friendly"],
+    "description": "Warm, cinnamon-spiced apples covered in a crunchy, buttery oat crumble topping.",
+    "prep_time": "15 Mins", "cook_time": "35 Mins", "servings": "6 People",
+    "image_url": "/static/apple_crisp.jpg",
+    "ingredients": ["Apples", "Oats", "Cinnamon", "Brown Sugar", "Butter", "Flour"],
+    "steps": [
+      { "title": "Apple Prep", "text": "Peel and thinly slice tart apples like Granny Smith. Toss them in a bowl with lemon juice, cinnamon, and a little sugar." },
+      { "title": "The Crumble", "text": "In a separate bowl, combine oats, flour, and brown sugar. Use your fingers to rub cold, cubed butter into the mixture." },
+      { "title": "Texture Secret", "text": "Keep rubbing the butter until the mixture looks like coarse sand with some pea-sized clumps. These clumps provide the signature crunch." },
+      { "title": "The Layering", "text": "Spread the apples evenly in a baking dish. Top generously with the oat mixture, ensuring every apple slice is covered." },
+      { "title": "The Golden Bake", "text": "Bake at 375°F until the apple juices are bubbling at the edges and the topping is a deep golden brown." }
+    ],
+    "explanation": "Summary: Using cold butter and leaving small clumps in the topping is the only way to achieve a truly 'crisp' texture."
+  },
+  {
+    "id": 32,
+    "title": "Cobb Salad",
+    "category": "Salad",
+    "badges": ["Dinner"],
+    "description": "A hearty, high-protein American salad arranged in iconic rows of chicken, bacon, egg, and avocado.",
+    "prep_time": "20 Mins", "cook_time": "5 Mins", "servings": "2 People",
+    "image_url": "/static/cobb_salad.jpg",
+    "ingredients": ["Chicken", "Bacon", "Hard Boiled Eggs", "Blue Cheese", "Avocado", "Lettuce"],
+    "steps": [
+      { "title": "Protein Prep", "text": "Grill chicken breast until juicy and fry bacon until shatteringly crisp. Dice both into small, uniform cubes." },
+      { "title": "The Perfect Egg", "text": "Hard-boil your eggs for exactly 10 minutes, then plunge into ice water. Peel and slice into neat wedges or rounds." },
+      { "title": "Produce Dicing", "text": "Dice the ripe avocado and tomatoes. Crumble the blue cheese into small chunks to ensure even distribution in every bite." },
+      { "title": "Iconic Rows", "text": "Lay a bed of chopped lettuce. Arrange the prepared ingredients in parallel rows over the top for the classic Cobb presentation." },
+      { "title": "The Vinaigrette", "text": "Whisk red wine vinegar, Dijon mustard, and olive oil. Drizzle over the salad just before serving to keep the lettuce crisp." }
+    ],
+    "explanation": "Summary: Cobb salad is all about the presentation; arranging the ingredients in rows makes it visually stunning and allows guests to pick their favorites."
+  },
+  {
+    "id": 33,
+    "title": "Classic Beef Lasagna",
+    "category": "Italian",
+    "badges": ["Slow Cooked", "Kid Friendly"],
+    "description": "Layers of rich meat ragu, creamy béchamel sauce, and tender pasta sheets baked to bubbly perfection.",
+    "prep_time": "30 Mins", "cook_time": "45 Mins", "servings": "6 People",
+    "image_url": "/static/lasagna.jpg",
+    "ingredients": ["Lasagna Sheets", "Ground Beef", "Béchamel Sauce", "Marinara", "Mozzarella"],
+    "steps": [
+      { "title": "Meat Ragu", "text": "Simmer ground beef with onions, garlic, and high-quality marinara for at least 30 minutes to develop a deep, meaty base." },
+      { "title": "Creamy Béchamel", "text": "Make a classic white sauce by whisking milk into a butter and flour roux. Season with nutmeg for an authentic Italian touch." },
+      { "title": "Foundation Layer", "text": "Spread a thin layer of meat sauce on the bottom of the dish. This prevents the first layer of noodles from sticking." },
+      { "title": "The Stacking", "text": "Layer noodles, meat ragu, béchamel, and mozzarella. Repeat until the dish is full, finishing with a thick layer of cheese." },
+      { "title": "The Bake", "text": "Cover with foil and bake at 375°F. Remove the foil during the last 15 minutes to allow the cheese to turn golden and bubbly." }
+    ],
+    "explanation": "Summary: Using a homemade béchamel instead of ricotta is the secret to a professional, silky-smooth lasagna texture."
+  },
+  {
+    "id": 34,
+    "title": "Aloo Gobi",
+    "category": "Indian",
+    "badges": ["One Pot", "Budget Friendly"],
+    "description": "A classic vegetarian dry curry made with potatoes and cauliflower florets in a fragrant spice blend.",
+    "prep_time": "15 Mins", "cook_time": "20 Mins", "servings": "3 People",
+    "image_url": "/static/aloo_gobi.jpg",
+    "ingredients": ["Potatoes", "Cauliflower", "Turmeric", "Cumin Seeds", "Cilantro", "Ginger"],
+    "steps": [
+      { "title": "Tempering seeds", "text": "Heat oil in a heavy pan and fry cumin seeds and ginger matchsticks until they sizzle and release their aroma." },
+      { "title": "The Main Veggies", "text": "Add potato cubes and cauliflower florets. Stir-fry on high heat for 3 minutes to give the veggies a slightly golden edge." },
+      { "title": "Dry Spicing", "text": "Add turmeric, chili powder, and salt. Stir thoroughly to ensure every piece of cauliflower and potato is coated in yellow spice." },
+      { "title": "Steam Cooking", "text": "Cover the pan tightly and reduce heat to low. The vegetables will cook in their own steam, preserving their texture and flavor." },
+      { "title": "The Finish", "text": "Once tender, stir in garam masala and a generous handful of fresh cilantro. Serve hot with roti or naan." }
+    ],
+    "explanation": "Summary: Authentic Aloo Gobi is a 'dry' curry; avoid adding water and let the vegetables steam in their own juices for the best result."
+  },
+  {
+    "id": 35,
+    "title": "Chicken Quesadillas",
+    "category": "Mexican",
+    "badges": ["15 Minute Meals", "Kid Friendly"],
+    "description": "Buttery, toasted flour tortillas filled with spiced chicken and a molten blend of Mexican cheeses.",
+    "prep_time": "5 Mins", "cook_time": "10 Mins", "servings": "2 People",
+    "image_url": "/static/quesadilla.jpg",
+    "ingredients": ["Flour Tortillas", "Cooked Chicken", "Mexican Cheese", "Bell Peppers", "Lime"],
+    "steps": [
+      { "title": "Filling Prep", "text": "Shred or slice cooked chicken. Toss with cumin, garlic powder, and a squeeze of lime juice to keep the meat flavorful and moist." },
+      { "title": "The Setup", "text": "Place a large flour tortilla in a hot, dry skillet. Sprinkle a layer of cheese over the entire surface to act as 'glue'." },
+      { "title": "Adding Protein", "text": "Distribute the chicken and sautéed peppers over one half of the tortilla. Fold the empty half over the filling." },
+      { "title": "The Golden Crunch", "text": "Press down with a spatula. Cook for 3 minutes per side until the tortilla is deep golden brown and the cheese is fully melted." },
+      { "title": "Resting and Cutting", "text": "Let the quesadilla rest for 60 seconds. This allows the cheese to set slightly so it doesn't spill out when you slice it into wedges." }
+    ],
+    "explanation": "Summary: Squeezing lime into the chicken and toasting in a dry pan ensure a quesadilla that is bright in flavor and perfectly crunchy."
+  },
+  {
+    "id": 36,
+    "title": "Shrimp Ceviche",
+    "category": "Mexican",
+    "badges": ["Quick Snacks"],
+    "description": "Fresh shrimp 'cooked' entirely in citrus juice and tossed with crisp garden vegetables.",
+    "prep_time": "20 Mins", "cook_time": "0 Mins", "servings": "4 People",
+    "image_url": "/static/shrimp_ceviche.jpg",
+    "ingredients": ["Raw Shrimp", "Lime Juice", "Lemon Juice", "Cucumber", "Cilantro", "Tomato"],
+    "steps": [
+      { "title": "Uniform Prep", "text": "Peel and devein raw shrimp. Chop into small, uniform 1/2-inch pieces so they 'cook' evenly in the citrus juice." },
+      { "title": "Citrus Curing", "text": "Submerge the shrimp completely in fresh lime and lemon juice. Let sit for 20 minutes until the shrimp turn pink and opaque." },
+      { "title": "Refreshing Crunch", "text": "While the shrimp cure, dice cucumber, red onion, and jalapeño. Ensure the onion pieces are very small to avoid over-powering the dish." },
+      { "title": "The Combination", "text": "Drain about half of the citrus juice. Toss the cured shrimp with the chopped vegetables, diced tomatoes, and fresh cilantro." },
+      { "title": "Final Chill", "text": "Refrigerate for at least 30 minutes before serving. This allows the flavors to meld and ensures the ceviche is served ice-cold." }
+    ],
+    "explanation": "Summary: Ceviche is a chemistry-based dish; the acidity of the lime juice effectively 'cooks' the shrimp protein without any heat."
+  },
+  {
+    "id": 37,
+    "title": "Loaded Nachos",
+    "category": "Quick Snacks",
+    "badges": ["Budget Friendly", "Kid Friendly"],
+    "description": "A mountain of crispy chips topped with seasoned beef, beans, and two types of melted cheese.",
+    "prep_time": "10 Mins", "cook_time": "5 Mins", "servings": "4 People",
+    "image_url": "/static/nachos.jpg",
+    "ingredients": ["Tortilla Chips", "Black Beans", "Cheddar Cheese", "Jalapeños", "Ground Beef"],
+    "steps": [
+      { "title": "Layered Foundation", "text": "Spread tortilla chips in a wide, even layer on a large baking sheet. Avoid piling them too high to ensure every chip gets toppings." },
+      { "title": "Hearty Toppings", "text": "Evenly distribute seasoned ground beef and rinsed black beans over the chips. This provides protein and texture in every bite." },
+      { "title": "The Cheese Blanket", "text": "Cover generously with a mix of sharp cheddar and Monterey Jack. Using two cheeses creates a better flavor and melt." },
+      { "title": "High Heat Melt", "text": "Broil on the top rack for only 3-5 minutes. Watch closely; you want the cheese to bubble and brown slightly without burning the chips." },
+      { "title": "Cold Garnishes", "text": "Immediately after removing from the oven, top with cold salsa, sour cream, and fresh jalapeño slices to create a temperature contrast." }
+    ],
+    "explanation": "Summary: Spreading the chips wide rather than deep is the secret to avoiding 'sad dry chips' at the bottom of the pile."
+  },
+  {
+    "id": 38,
+    "title": "Vegetable Spring Rolls",
+    "category": "Quick Snacks",
+    "badges": ["One Pot"],
+    "description": "Light and shatteringly crispy wrappers filled with a savory blend of shredded cabbage and ginger.",
+    "prep_time": "20 Mins", "cook_time": "10 Mins", "servings": "3 People",
+    "image_url": "/static/spring_rolls.jpg",
+    "ingredients": ["Spring Roll Wrappers", "Cabbage", "Carrots", "Soy Sauce", "Ginger"],
+    "steps": [
+      { "title": "Filling Sauté", "text": "Sauté shredded cabbage, carrots, and ginger in a pan with a splash of soy sauce. Cook only until soft; they should not be wet." },
+      { "title": "Moisture Removal", "text": "Place the cooked filling in a strainer for 10 minutes. If the filling is wet, the wrappers will become soggy and explode during frying." },
+      { "title": "Rolling Technique", "text": "Place 2 tablespoons of filling on a wrapper. Fold the bottom corner up, tuck the sides in tightly, and roll toward the top corner." },
+      { "title": "The Tight Seal", "text": "Brush the final edge with a little water or a cornstarch slurry. This ensures the roll stays airtight and doesn't leak oil inside." },
+      { "title": "The Golden Fry", "text": "Deep fry or air fry at 375°F until the skin is bubbly, translucent, and a light golden brown. Serve hot with sweet chili sauce." }
+    ],
+    "explanation": "Summary: Straining the filling is the most important step; any internal moisture will ruin the crunch of the spring roll wrapper."
+  },
+  {
+    "id": 39,
+    "title": "Tomato Bruschetta",
+    "category": "Quick Snacks",
+    "badges": ["15 Minute Meals"],
+    "description": "Toasted baguette slices rubbed with raw garlic and topped with balsamic-marinated Roma tomatoes.",
+    "prep_time": "10 Mins", "cook_time": "5 Mins", "servings": "4 People",
+    "image_url": "/static/bruschetta.jpg",
+    "ingredients": ["Baguette", "Roma Tomatoes", "Garlic", "Balsamic Glaze", "Fresh Basil"],
+    "steps": [
+      { "title": "Baguette Toasting", "text": "Slice a baguette into thick rounds. Brush with olive oil and grill or toast until the edges are dark brown and crispy." },
+      { "title": "The Garlic Trick", "text": "While the bread is still warm, rub a peeled raw garlic clove across the surface. The heat will melt the garlic into the crust." },
+      { "title": "Tomato Marinade", "text": "Seed and dice Roma tomatoes. Toss with fresh basil, olive oil, and a splash of balsamic vinegar. Let sit for 10 minutes." },
+      { "title": "Draining Juice", "text": "Before topping the bread, use a slotted spoon to lift the tomatoes. This prevents the baguette from becoming soggy from the tomato juice." },
+      { "title": "The Drizzle", "text": "Mound the tomatoes onto the garlic bread and finish with a thick drizzle of balsamic glaze and a crack of black pepper." }
+    ],
+    "explanation": "Summary: Rubbing raw garlic on the warm bread provides a subtle, authentic flavor that garlic powder or roasted garlic cannot replicate."
+  },
+  {
+    "id": 40,
+    "title": "Brioche French Toast",
+    "category": "Breakfast",
+    "badges": ["Kid Friendly"],
+    "description": "Thick slices of buttery brioche soaked in a rich cinnamon-vanilla custard and griddled to perfection.",
+    "prep_time": "5 Mins", "cook_time": "10 Mins", "servings": "2 People",
+    "image_url": "/static/french_toast.jpg",
+    "ingredients": ["Brioche Bread", "2 Eggs", "1/2 cup Milk", "Cinnamon", "Vanilla"],
+    "steps": [
+      { "title": "The Custard", "text": "Whisk eggs, whole milk, heavy cream, vanilla extract, and cinnamon until the mixture is perfectly smooth and frothy." },
+      { "title": "The Deep Soak", "text": "Use day-old brioche sliced at least 1-inch thick. Dip into the custard for 30 seconds per side so the center becomes like bread pudding." },
+      { "title": "Griddle Pre-heat", "text": "Melt a generous amount of butter in a non-stick skillet over medium heat. Don't use high heat, as the sugar in the bread will burn." },
+      { "title": "The Golden Crust", "text": "Cook the soaked bread for 3-4 minutes per side. The outside should be caramelized and slightly crisp while the inside stays soft." },
+      { "title": "The Stacking", "text": "Serve in a stack topped with a knob of cold butter, fresh berries, and high-quality warm maple syrup." }
+    ],
+    "explanation": "Summary: Using thick, slightly stale brioche allows the bread to soak up more custard without falling apart, resulting in a luxurious, creamy center."
+  },
+  {
+    "id": 41,
+    "title": "Garden Omelette",
+    "category": "Breakfast",
+    "badges": ["15 Minute Meals", "One Pot"],
+    "description": "A fluffy three-egg omelette filled with sautéed spinach, earthy mushrooms, and creamy feta cheese.",
+    "prep_time": "5 Mins", "cook_time": "5 Mins", "servings": "1 Person",
+    "image_url": "/static/omelette.jpg",
+    "ingredients": ["3 Eggs", "Spinach", "Mushrooms", "Feta Cheese", "Butter"],
+    "steps": [
+      { "title": "Veggie Sauté", "text": "Melt a small knob of butter in a non-stick pan. Sauté sliced mushrooms and spinach until the moisture has evaporated to prevent a watery omelette." },
+      { "title": "Egg Preparation", "text": "Whisk three eggs with a splash of water or cream and a pinch of salt until no streaks of white remain. Aerating the eggs ensures a fluffier texture." },
+      { "title": "The Pour", "text": "Remove the veggies and wipe the pan. Add more butter over medium-low heat, then pour in the eggs. Use a spatula to push the cooked edges toward the center." },
+      { "title": "The Filling", "text": "When the top is almost set but still slightly moist, return the sautéed veggies to one half of the omelette and sprinkle with crumbled feta cheese." },
+      { "title": "The Fold", "text": "Carefully fold the empty half over the filling. Slide the omelette onto a warm plate and garnish with fresh chives or parsley." }
+    ],
+    "explanation": "Summary: Sautéing the vegetables separately and whisking the eggs thoroughly are the keys to a restaurant-style fluffy omelette."
+  },
+  {
+    "id": 42,
+    "title": "Classic Tiramisu",
+    "category": "Dessert",
+    "badges": ["Slow Cooked"],
+    "description": "The quintessential Italian dessert featuring layers of espresso-soaked ladyfingers and rich mascarpone cream.",
+    "prep_time": "30 Mins", "cook_time": "0 Mins", "servings": "6 People",
+    "image_url": "/static/tiramisu.jpg",
+    "ingredients": ["Ladyfingers", "Mascarpone", "Strong Espresso", "Cocoa Powder", "Eggs", "Sugar"],
+    "steps": [
+      { "title": "Espresso Prep", "text": "Brew strong espresso and let it cool completely. Optionally, add a splash of dark rum or coffee liqueur for a traditional flavor profile." },
+      { "title": "Mascarpone Cream", "text": "Whisk egg yolks and sugar until pale and thick. Gently fold in the mascarpone cheese followed by stiffly whipped egg whites or heavy cream." },
+      { "title": "The Quick Dip", "text": "Quickly submerge each ladyfinger in the cold espresso for only 1 second. If they soak too long, the tiramisu will become soggy and collapse." },
+      { "title": "Layering Process", "text": "Arrange a layer of soaked biscuits in a dish, then spread half of the mascarpone mixture over them. Repeat the process for a second layer." },
+      { "title": "The Chill Factor", "text": "Refrigerate for at least 4-6 hours. Just before serving, dust the top generously with high-quality unsweetened cocoa powder." }
+    ],
+    "explanation": "Summary: A 1-second dip and a long chilling period are the two non-negotiable rules for a tiramisu that holds its shape."
+  },
+  {
+    "id": 43,
+    "title": "Lemon Tart",
+    "category": "Dessert",
+    "badges": ["Slow Cooked"],
+    "description": "A crisp, buttery shortbread crust filled with a zesty and silky-smooth lemon curd.",
+    "prep_time": "20 Mins", "cook_time": "30 Mins", "servings": "8 People",
+    "image_url": "/static/lemon_tart.jpg",
+    "ingredients": ["Shortbread Tart Shell", "Lemons", "Eggs", "Sugar", "Butter"],
+    "steps": [
+      { "title": "Blind Baking", "text": "Line your tart shell with parchment and weights. Bake at 375°F until the edges are light golden brown to ensure the crust stays crispy." },
+      { "title": "Curd Whisking", "text": "Whisk lemon juice, zest, eggs, and sugar in a heavy-bottomed saucepan over medium-low heat. Stir constantly to prevent the eggs from scrambling." },
+      { "title": "Butter Emulsion", "text": "Once the mixture thickens enough to coat the back of a spoon, remove from heat. Whisk in cold, cubed butter one piece at a time until glossy." },
+      { "title": "The Strain", "text": "Pass the lemon curd through a fine-mesh sieve directly into the pre-baked tart shell to remove any zest or small cooked egg bits." },
+      { "title": "Final Set", "text": "Bake for another 5-8 minutes to set the center. Allow the tart to cool to room temperature, then refrigerate for at least 2 hours before slicing." }
+    ],
+    "explanation": "Summary: Straining the curd and blind-baking the crust are the professional steps needed for a silky texture and a snap-crisp base."
+  },
+  {
+    "id": 44,
+    "title": "Caprese Salad",
+    "category": "Salad",
+    "badges": ["15 Minute Meals", "Budget Friendly"],
+    "description": "A vibrant and simple Italian salad featuring thick slices of fresh mozzarella, ripe tomatoes, and aromatic basil.",
+    "prep_time": "10 Mins", "cook_time": "0 Mins", "servings": "2 People",
+    "image_url": "/static/caprese.jpg",
+    "ingredients": ["Fresh Mozzarella", "Beefsteak Tomatoes", "Fresh Basil", "Olive Oil", "Balsamic Glaze"],
+    "steps": [
+      { "title": "Precision Slicing", "text": "Slice large, ripe beefsteak tomatoes and fresh buffalo mozzarella into uniform 1/2-inch thick rounds." },
+      { "title": "Rhythmic Arrangement", "text": "On a large platter, alternate slices of tomato and mozzarella in a circular pattern, overlapping them slightly." },
+      { "title": "The Basil Tuck", "text": "Tuck large, fresh basil leaves between each pair of tomato and cheese slices so the aroma is present in every bite." },
+      { "title": "The Seasoning", "text": "Sprinkle the entire salad with a generous amount of flaky sea salt and freshly cracked black pepper." },
+      { "title": "The Italian Drizzle", "text": "Finish by drizzling with high-quality extra virgin olive oil and a few drops of thick balsamic glaze." }
+    ],
+    "explanation": "Summary: Caprese relies entirely on ingredient quality; use the freshest basil and best olive oil you can find for an authentic experience."
+  },
+  {
+    "id": 45,
+    "title": "Roasted Beet Salad",
+    "category": "Salad",
+    "badges": ["One Pot"],
+    "description": "Earthy roasted beets served with creamy goat cheese, toasted walnuts, and a bright balsamic vinaigrette.",
+    "prep_time": "10 Mins", "cook_time": "45 Mins", "servings": "2 People",
+    "image_url": "/static/beet_salad.jpg",
+    "ingredients": ["Beets", "Goat Cheese", "Walnuts", "Arugula", "Balsamic Vinegar"],
+    "steps": [
+      { "title": "Foil Roasting", "text": "Wrap whole, unpeeled beets in aluminum foil with a splash of oil. Roast at 400°F until a knife slides easily into the center." },
+      { "title": "The Clean Peel", "text": "While still warm, use a paper towel to rub the skins off the beets. They should slip away easily without the need for a peeler." },
+      { "title": "Walnut Toasting", "text": "Briefly toast walnut halves in a dry pan until fragrant. This removes the raw bitterness and adds a smoky depth to the salad." },
+      { "title": "Vinaigrette Mix", "text": "Whisk together balsamic vinegar, honey, Dijon mustard, and olive oil to create a sweet and tangy balance for the earthy beets." },
+      { "title": "Plating", "text": "Arrange sliced beets over a bed of arugula. Top with crumbled goat cheese and the toasted walnuts before drizzling with dressing." }
+    ],
+    "explanation": "Summary: Roasting beets in their skins preserves their natural sugars and makes the preparation process significantly cleaner."
+  },
+  {
+    "id": 46,
+    "title": "Herb Roasted Chicken",
+    "category": "Dinner",
+    "badges": ["Slow Cooked", "Kid Friendly"],
+    "description": "A classic whole roasted chicken with crispy golden skin and meat infused with rosemary and lemon.",
+    "prep_time": "15 Mins", "cook_time": "75 Mins", "servings": "4 People",
+    "image_url": "/static/roast_chicken.jpg",
+    "ingredients": ["Whole Chicken", "Rosemary", "Lemon", "Garlic", "Butter"],
+    "steps": [
+      { "title": "Skin Preparation", "text": "Pat the chicken skin completely dry. For the crispiest results, leave the chicken uncovered in the fridge for two hours before roasting." },
+      { "title": "The Butter Rub", "text": "Mix softened butter with chopped rosemary and garlic. Gently lift the skin off the breast and rub the butter directly onto the meat." },
+      { "title": "Cavity Stuffing", "text": "Stuff the cavity with a halved lemon and a head of garlic. This creates an aromatic steam that flavors the meat from the inside out." },
+      { "title": "The High-Low Roast", "text": "Start roasting at 425°F for 15 minutes to crisp the skin, then reduce to 350°F and cook until the thigh reaches 165°F." },
+      { "title": "Juice Redistribution", "text": "Rest the chicken for at least 15 minutes before carving. This ensures the juices stay in the meat rather than running out onto the board." }
+    ],
+    "explanation": "Summary: Rubbing herb butter under the skin and allowing a long rest are the keys to a juicy, restaurant-quality roast bird."
+  },
+  {
+    "id": 47,
+    "title": "Pan-Seared Lamb Chops",
+    "category": "Dinner",
+    "badges": ["15 Minute Meals"],
+    "description": "Tender lamb chops with a deep mahogany crust and a bright garlic-mint pan sauce.",
+    "prep_time": "5 Mins", "cook_time": "8 Mins", "servings": "2 People",
+    "image_url": "/static/lamb_chops.jpg",
+    "ingredients": ["Lamb Chops", "Fresh Mint", "Garlic", "Red Wine Vinegar", "Butter"],
+    "steps": [
+      { "title": "Fat Rendering", "text": "Hold the lamb chops with tongs and sear the fatty edges against the hot pan first to render the fat and provide extra cooking oil." },
+      { "title": "The High Sear", "text": "Sear the flat sides of the chops on high heat for 3 minutes per side. Do not move them until they naturally release from the pan." },
+      { "title": "Aromatic Basting", "text": "Lower the heat and add butter, smashed garlic, and fresh rosemary. Spoon the foaming butter over the chops for the last minute of cooking." },
+      { "title": "Deglazing the Pan", "text": "Remove the lamb. Add a splash of red wine vinegar and chopped mint to the hot pan to create a quick, vibrant sauce." },
+      { "title": "The Finish", "text": "Rest the chops for 5 minutes. Serve with the pan reduction poured over the top for a classic bistro-style presentation." }
+    ],
+    "explanation": "Summary: Rendering the fat strip first and basting with aromatic butter ensures the lamb is flavorful and tender throughout."
+  },
+  {
+    "id": 48,
+    "title": "BBQ Pork Ribs",
+    "category": "Dinner",
+    "badges": ["Slow Cooked", "Stew"],
+    "description": "Fall-off-the-bone tender ribs with a smoky dry rub and a thick, sticky BBQ glaze.",
+    "prep_time": "20 Mins", "cook_time": "180 Mins", "servings": "3 People",
+    "image_url": "/static/pork_ribs.jpg",
+    "ingredients": ["Pork Ribs", "BBQ Sauce", "Brown Sugar", "Paprika", "Garlic Powder"],
+    "steps": [
+      { "title": "Membrane Removal", "text": "Peel the thin, silver membrane off the back of the ribs using a paper towel for grip. This allows the seasoning and heat to penetrate the meat." },
+      { "title": "The Dry Rub", "text": "Generously coat both sides of the ribs with a blend of brown sugar, smoked paprika, and garlic powder. Press the spices into the meat." },
+      { "title": "The Low Braise", "text": "Wrap the ribs tightly in heavy-duty foil with a splash of apple juice. Bake at 300°F for 2.5 to 3 hours until very tender." },
+      { "title": "The Glazing", "text": "Carefully remove the ribs from the foil. Brush both sides with a thick layer of your favorite BBQ sauce." },
+      { "title": "The High Heat Finish", "text": "Place under the broiler for 3-5 minutes until the sauce bubbles and caramelizes into a sticky, dark glaze. Let rest before slicing." }
+    ],
+    "explanation": "Summary: The secret to 'fall-off-the-bone' ribs is the slow, moist braise inside the foil followed by a quick caramelization step."
+  },
+  {
+    "id": 49,
+    "title": "Fettuccine Alfredo",
+    "category": "Italian",
+    "badges": ["15 Minute Meals", "Kid Friendly"],
+    "description": "A rich and decadent Roman pasta dish made with a silky parmesan and butter emulsion.",
+    "prep_time": "5 Mins", "cook_time": "10 Mins", "servings": "2 People",
+    "image_url": "/static/fettuccine_alfredo.jpg",
+    "ingredients": ["Fettuccine", "Heavy Cream", "Butter", "Parmesan", "Garlic"],
+    "steps": [
+      { "title": "Pasta Boil", "text": "Cook fettuccine in a large pot of salted water. Reserve at least one cup of the starchy water before draining." },
+      { "title": "The Cream Base", "text": "In a large skillet, melt a knob of butter and sauté minced garlic. Add heavy cream and simmer until it begins to thicken slightly." },
+      { "title": "Cheese Integration", "text": "Lower the heat and whisk in finely grated parmesan cheese. Constant whisking prevents the cheese from becoming stringy or clumping." },
+      { "title": "The Emulsion", "text": "Toss the hot pasta into the skillet. Add splashes of the reserved pasta water to help the sauce bind to the noodles and create a glossy sheen." },
+      { "title": "Immediate Serve", "text": "Season with a pinch of nutmeg and black pepper. Serve immediately, as Alfredo sauce thickens rapidly as it cools." }
+    ],
+    "explanation": "Summary: Using starchy pasta water and whisking the cheese on low heat are the professional secrets to a smooth, non-greasy Alfredo sauce."
+  },
+  {
+    "id": 50,
+    "title": "Chicken Piccata",
+    "category": "Italian",
+    "badges": ["Dinner", "One Pot"],
+    "description": "Thin pan-seared chicken cutlets served in a bright, lemony butter sauce with briny capers.",
+    "prep_time": "10 Mins", "cook_time": "15 Mins", "servings": "2 People",
+    "image_url": "/static/chicken_piccata.jpg",
+    "ingredients": ["Chicken Breast", "Capers", "Lemon", "White Wine", "Parsley", "Flour"],
+    "steps": [
+      { "title": "Pounding Cutlets", "text": "Slice chicken breasts in half horizontally and pound them to a uniform 1/4-inch thickness. This ensures they cook evenly in seconds." },
+      { "title": "The Flour Dredge", "text": "Season the chicken and dredge lightly in flour. Shake off the excess; you want a paper-thin coating to hold the sauce." },
+      { "title": "The Quick Sear", "text": "Sear the chicken in a hot pan with oil and butter for 2-3 minutes per side until golden. Remove and set aside." },
+      { "title": "Sauce Reduction", "text": "Deglaze the pan with white wine and lemon juice. Add capers and simmer until the liquid reduces by half." },
+      { "title": "Butter Mounting", "text": "Whisk in cold butter off the heat to create a velvety emulsion. Return the chicken to the pan briefly to coat with sauce before serving." }
+    ],
+    "explanation": "Summary: Uniform thickness and mounting the sauce with cold butter are the keys to a professional, balanced Piccata."
+  },
+  {
+    "id": 51,
+    "title": "Lamb Rogan Josh",
+    "category": "Indian",
+    "badges": ["Slow Cooked", "Stew"],
+    "description": "A fragrant Kashmiri lamb curry featuring a rich, red gravy colored by traditional spices.",
+    "prep_time": "20 Mins", "cook_time": "90 Mins", "servings": "4 People",
+    "image_url": "/static/lamb_rogan_josh.jpg",
+    "ingredients": ["Lamb Shoulder", "Yogurt", "Ginger", "Kashmiri Chili", "Fennel Seeds"],
+    "steps": [
+      { "title": "Lamb Browning", "text": "Sear lamb cubes in batches in a hot pot until deeply browned. This caramelization provides the base flavor for the entire curry." },
+      { "title": "Spice Blooming", "text": "Sauté whole spices like cloves and cardamom in oil, then add powdered fennel and ginger. Stir for 1 minute until fragrant." },
+      { "title": "The Red Color", "text": "Add Kashmiri chili powder and tomato puree. This specific chili provides a vibrant red color and mild heat without being overly spicy." },
+      { "title": "Yogurt Tempering", "text": "Whisk yogurt and add it one tablespoon at a time to the hot pan while stirring. This prevents the yogurt from curdling in the sauce." },
+      { "title": "The Long Braise", "text": "Cover and simmer on very low heat for at least 75 minutes. The lamb is ready when it can be easily cut with the side of a spoon." }
+    ],
+    "explanation": "Summary: Tempering the yogurt and using authentic Kashmiri chili powder are essential for achieving the signature silky red gravy of Rogan Josh."
+  },
+  {
+    "id": 52,
+    "title": "Dal Makhani",
+    "category": "Indian",
+    "badges": ["Slow Cooked", "Budget Friendly"],
+    "description": "Luxurious black lentils slow-cooked overnight with cream and butter for a smoky, velvety texture.",
+    "prep_time": "15 Mins", "cook_time": "120 Mins", "servings": "4 People",
+    "image_url": "/static/dal_makhani.jpg",
+    "ingredients": ["Black Lentils", "Kidney Beans", "Butter", "Cream", "Ginger-Garlic"],
+    "steps": [
+      { "title": "The Initial Boil", "text": "Boil soaked black lentils and kidney beans until they are completely soft and the skins begin to split open." },
+      { "title": "The Masala Base", "text": "Sauté ginger-garlic paste and tomato puree in butter. Add cumin and chili powder, cooking until the oil separates." },
+      { "title": "The Mashing", "text": "Add the lentils to the masala. Use a heavy spoon to mash about 20% of the lentils; this releases natural starches to thicken the sauce." },
+      { "title": "The Slow Simmer", "text": "Add water and a large knob of butter. Simmer on the lowest possible heat for at least 90 minutes, stirring occasionally to prevent sticking." },
+      { "title": "The Cream Swirl", "text": "Stir in heavy cream and dried fenugreek leaves (Kasuri Methi). Simmer for 10 more minutes until the dal is dark, rich, and velvety." }
+    ],
+    "explanation": "Summary: The 'Makhani' (buttery) flavor comes from the slow simmer and the final addition of fenugreek leaves and cream."
+  },
+  {
+    "id": 53,
+    "title": "Chicken Fajitas",
+    "category": "Mexican",
+    "badges": ["15 Minute Meals", "Dinner"],
+    "description": "Sizzling strips of chicken, bell peppers, and onions served with charred tortillas.",
+    "prep_time": "10 Mins", "cook_time": "10 Mins", "servings": "3 People",
+    "image_url": "/static/chicken_fajitas.jpg",
+    "ingredients": ["Chicken Strips", "Bell Peppers", "Onions", "Cumin", "Tortillas"],
+    "steps": [
+      { "title": "The Marinade", "text": "Toss chicken strips in lime juice, oil, cumin, and chili powder. Let sit for 10 minutes to tenderize the meat." },
+      { "title": "High Heat Sear", "text": "Heat a heavy skillet until smoking hot. Sear the chicken in a single layer until charred and cooked through, then remove." },
+      { "title": "Vegetable Char", "text": "In the same hot pan, sauté sliced peppers and onions. Do not over-crowd the pan; you want them to char rather than steam." },
+      { "title": "The Sizzle", "text": "Return the chicken to the pan and add a splash of water or lime juice to create a steam cloud and loosen any brown bits." },
+      { "title": "Tortilla Char", "text": "Briefly toast tortillas directly over a gas flame or in a dry pan until charred spots appear. Serve the filling immediately while sizzling." }
+    ],
+    "explanation": "Summary: High heat and a heavy pan are the only ways to achieve the restaurant-style 'sizzle' and smoky char at home."
+  },
+  {
+    "id": 54,
+    "title": "Traditional Pozole",
+    "category": "Mexican",
+    "badges": ["Stew", "Slow Cooked"],
+    "description": "A hearty Mexican soup featuring tender pork shoulder and hominy in a rich, mild chili broth.",
+    "prep_time": "20 Mins", "cook_time": "180 Mins", "servings": "6 People",
+    "image_url": "/static/pozole.jpg",
+    "ingredients": ["Pork Shoulder", "Hominy", "Dried Chilies", "Radishes", "Cabbage"],
+    "steps": [
+      { "title": "Pork Simmer", "text": "Simmer pork shoulder chunks with onion and garlic for 2 hours until the meat is tender and the broth is flavorful." },
+      { "title": "Chili Paste", "text": "Rehydrate dried Guajillo and Ancho chilies in hot water. Blend with garlic and a splash of water, then strain into the soup." },
+      { "title": "Hominy Addition", "text": "Rinse canned hominy and add it to the pork broth. Hominy adds a distinct corn flavor and a chewy, satisfying texture." },
+      { "title": "The Flavor Meld", "text": "Simmer the chili base, pork, and hominy together for another 30 minutes to ensure the meat absorbs the red sauce." },
+      { "title": "The Garnish Bar", "text": "Serve in large bowls. Traditionally, guests add their own fresh toppings like shredded cabbage, sliced radishes, and lime." }
+    ],
+    "explanation": "Summary: Straining the chili paste is the secret to a smooth, elegant broth that isn't gritty from chili skins."
+  },
+  {
+    "id": 55,
+    "title": "Mozzarella Sticks",
+    "category": "Quick Snacks",
+    "badges": ["Kid Friendly", "Budget Friendly"],
+    "description": "Gooey, stringy mozzarella cheese inside a perfectly seasoned and crunchy breadcrumb coating.",
+    "prep_time": "15 Mins", "cook_time": "5 Mins", "servings": "4 People",
+    "image_url": "/static/mozzarella_sticks.jpg",
+    "ingredients": ["Cheese Sticks", "Breadcrumbs", "Eggs", "Flour", "Marinara"],
+    "steps": [
+      { "title": "The Flour Coat", "text": "Roll cold mozzarella sticks in flour. This provides a dry surface for the egg wash to stick to." },
+      { "title": "The Double Dip", "text": "Dip the sticks in beaten egg, then breadcrumbs. Repeat this step! A double-coating is essential to prevent the cheese from leaking out." },
+      { "title": "The Deep Freeze", "text": "Place the breaded sticks in the freezer for at least 1 hour. Frying them from frozen ensures the outside crisps before the inside melts completely." },
+      { "title": "The Flash Fry", "text": "Fry in 350°F oil for only 60-90 seconds. Remove them as soon as they turn golden brown to avoid 'cheese blowouts'." },
+      { "title": "The Drain", "text": "Drain on a wire rack rather than a paper towel to keep the bottom crispy. Serve immediately with warm marinara sauce." }
+    ],
+    "explanation": "Summary: Double-breading and freezing before frying are the two professional tricks used to create perfect, non-leaking mozzarella sticks."
+  },
+  {
+    "id": 56,
+    "title": "Popcorn Chicken",
+    "category": "Quick Snacks",
+    "badges": ["One Pot", "Kid Friendly"],
+    "description": "Bite-sized pieces of juicy chicken breast fried to a golden, spicy crunch.",
+    "prep_time": "15 Mins", "cook_time": "10 Mins", "servings": "3 People",
+    "image_url": "/static/popcorn_chicken.jpg",
+    "ingredients": ["Chicken Breast", "Buttermilk", "Flour", "Paprika", "Garlic Powder"],
+    "steps": [
+      { "title": "The Buttermilk Brine", "text": "Soak bite-sized chicken pieces in buttermilk and hot sauce for 30 minutes. This tenderizes the meat and adds deep flavor." },
+      { "title": "Shaker Bag Method", "text": "Toss the chicken in a large bag filled with seasoned flour. Shake vigorously to ensure every nook and cranny is coated." },
+      { "title": "Drip Removal", "text": "Let the coated chicken sit on a tray for 5 minutes. This allows the flour to set, which creates a more stable crust." },
+      { "title": "Small Batch Fry", "text": "Fry the small pieces in batches to avoid dropping the oil temperature. They only need about 3 minutes to become golden and crispy." },
+      { "title": "Instant Seasoning", "text": "Toss the hot chicken with an extra pinch of salt and paprika immediately after removing from the oil so the spices stick to the crust." }
+    ],
+    "explanation": "Summary: The buttermilk soak ensures the chicken stays juicy despite its small size, while the shaker bag method creates a rugged, crispy surface."
+  },
+  {
+    "id": 57,
+    "title": "Belgian Waffles",
+    "category": "Breakfast",
+    "badges": ["Kid Friendly", "Slow Cooked"],
+    "description": "Classic Belgian-style waffles with deep pockets, a crisp exterior, and an airy, light-as-air center.",
+    "prep_time": "10 Mins", "cook_time": "15 Mins", "servings": "4 People",
+    "image_url": "/static/waffles.jpg",
+    "ingredients": ["Flour", "Yeast", "Egg Whites", "Pearl Sugar", "Butter"],
+    "steps": [
+      { "title": "Yeast Activation", "text": "Dissolve yeast in warm milk with a pinch of sugar. Yeast provides the classic 'bready' aroma and incredible loft of a true Belgian waffle." },
+      { "title": "Whipping Whites", "text": "Separate the eggs and whisk the whites into stiff peaks. This is the secret to an airy, light-as-air center." },
+      { "title": "The Folding", "text": "Gently fold the whipped egg whites into the main batter using a spatula. Do not over-mix, or you will lose the air bubbles." },
+      { "title": "Iron Preheat", "text": "Ensure your waffle iron is smoking hot and well-buttered. Pour the batter in and rotate the iron immediately to distribute the weight." },
+      { "title": "Steam Watch", "text": "Cook until the steam stops coming out of the iron. This is the visual indicator that the interior is set and the exterior is crisp." }
+    ],
+    "explanation": "Summary: Whipping the egg whites separately and using yeast are the two steps that separate authentic Belgian waffles from standard pancake-style versions."
+  },
+  {
+    "id": 58,
+    "title": "Tropical Mango Smoothie",
+    "category": "Smoothies",
+    "badges": ["15 Minute Meals", "Vegan"],
+    "description": "A refreshing blend of ripe mango, coconut milk, and a hint of lime.",
+    "prep_time": "5 Mins", "cook_time": "0 Mins", "servings": "1 Person",
+    "image_url": "/static/mango_smoothie.jpg",
+    "ingredients": ["1 cup Frozen Mango", "1/2 cup Coconut Milk", "1 tbsp Honey", "Lime Juice"],
+    "steps": [
+      { "title": "Fruit Selection", "text": "Use frozen mango chunks to achieve a thick, slushy consistency without the need for ice, which can water down the flavor." },
+      { "title": "The Liquid Base", "text": "Pour the coconut milk into the blender first. Putting liquid at the bottom helps the blades engage the frozen fruit more effectively." },
+      { "title": "Zesty Balance", "text": "Add a squeeze of fresh lime juice. The acidity cuts through the sweetness of the mango for a more balanced tropical profile." },
+      { "title": "High Speed Blend", "text": "Process on high speed for exactly 45 seconds. This ensures the fibers of the mango are completely broken down into a silky liquid." },
+      { "title": "The Garnish", "text": "Pour into a chilled glass. Top with a sprig of fresh mint or a sprinkle of toasted coconut flakes for a professional finish." }
+    ],
+    "explanation": "Summary: Using frozen fruit instead of ice cubes is the professional secret to a thick, intensely flavored smoothie."
+  },
+  {
+    "id": 59,
+    "title": "Berry Blast Smoothie",
+    "category": "Smoothies",
+    "badges": ["Budget Friendly", "Kid Friendly"],
+    "description": "An antioxidant-packed blend of strawberries, blueberries, and creamy Greek yogurt.",
+    "prep_time": "5 Mins", "cook_time": "0 Mins", "servings": "1 Person",
+    "image_url": "/static/berry_smoothie.jpg",
+    "ingredients": ["1 cup Mixed Berries", "1/2 cup Greek Yogurt", "1/2 cup Orange Juice"],
+    "steps": [
+      { "title": "Berry Mix", "text": "Combine fresh or frozen strawberries, blueberries, and raspberries. Mixed berries provide a deeper, more complex flavor than a single type." },
+      { "title": "Protein Addition", "text": "Add a large dollop of Greek yogurt. This provides a creamy texture and a protein boost to keep you full longer." },
+      { "title": "Juice Splash", "text": "Add orange juice or apple juice to provide the necessary liquid and a touch of natural acidity and sweetness." },
+      { "title": "Vibrant Pulse", "text": "Pulse the blender several times to break up large fruit, then blend on high until the color is a uniform, vibrant purple." },
+      { "title": "Final Adjust", "text": "If too thick, add a splash of water. If too thin, add more frozen fruit. Serve immediately while ice-cold." }
+    ],
+    "explanation": "Summary: Greek yogurt adds the necessary body and tang that makes this smoothie taste like a treat while remaining healthy."
+  },
+  {
+    "id": 60,
+    "title": "Green Detox Juice",
+    "category": "Smoothies",
+    "badges": ["15 Minute Meals", "Vegan"],
+    "description": "A vibrant blend of fresh spinach, green apple, cucumber, and a spicy kick of ginger.",
+    "prep_time": "10 Mins", "cook_time": "0 Mins", "servings": "2 People",
+    "image_url": "/static/green_juice.jpg",
+    "ingredients": ["2 cups Spinach", "1 Green Apple", "1/2 Cucumber", "1 inch Ginger"],
+    "steps": [
+      { "title": "Produce Prep", "text": "Core the green apple and cut the cucumber into chunks. Leave the skin on both for maximum nutritional value." },
+      { "title": "Ginger Spice", "text": "Peel a 1-inch piece of fresh ginger. Fresh ginger provides a spicy warmth that balances the earthy spinach." },
+      { "title": "The Blend", "text": "Combine all ingredients in a high-speed blender with 1/2 cup of cold water. Blend until no large pieces remain." },
+      { "title": "The Strain", "text": "For a smooth juice experience, pour the mixture through a fine-mesh sieve or a nut milk bag to remove the pulp." },
+      { "title": "The Serve", "text": "Stir in a squeeze of lemon juice to prevent the green color from oxidizing and turning brown. Serve over ice." }
+    ],
+    "explanation": "Summary: Adding lemon juice and straining the pulp results in a bright, crisp, and professional-looking green juice."
+  },
+  {
+    "id": 61,
+    "title": "Iced Caramel Macchiato",
+    "category": "Smoothies",
+    "badges": ["15 Minute Meals", "Budget Friendly"],
+    "description": "Better than the coffee shop! Beautifully layered espresso, cold milk, and rich vanilla-caramel syrup.",
+    "prep_time": "5 Mins", "cook_time": "0 Mins", "servings": "1 Person",
+    "image_url": "/static/caramel_macchiato.jpg",
+    "ingredients": ["1 cup Milk", "2 shots Espresso", "2 tbsp Caramel Sauce", "1 tbsp Vanilla Syrup", "Ice"],
+    "steps": [
+      { "title": "Glass Prep", "text": "Drizzle a tablespoon of caramel sauce around the inside walls of a tall glass to create the signature coffee-shop aesthetic." },
+      { "title": "Sweet Foundation", "text": "Add vanilla syrup to the bottom of the glass. Fill the glass to the brim with large ice cubes to ensure the layers stay separated." },
+      { "title": "Cold Milk", "text": "Pour cold milk over the ice until the glass is about three-quarters full. Stir gently to mix the milk with the vanilla syrup." },
+      { "title": "The Espresso Float", "text": "Slowly pour two shots of hot, fresh espresso directly over the ice. The temperature difference and the ice help the coffee 'float' on top of the milk." },
+      { "title": "Caramel Topping", "text": "Finish with a generous cross-hatch drizzle of caramel sauce over the top. Serve with a straw for the perfect layered experience." }
+    ],
+    "explanation": "Summary: Pouring the espresso last over a glass full of ice is the physical secret to creating the distinct, beautiful layers of a macchiato."
+  },
+  {
+    "id": 62,
+    "title": "Strawberry Lemonade",
+    "category": "Smoothies",
+    "badges": ["Kid Friendly", "Budget Friendly"],
+    "description": "A vibrant and refreshing blend of hand-squeezed lemons and sweet, fresh strawberry puree.",
+    "prep_time": "10 Mins", "cook_time": "5 Mins", "servings": "4 People",
+    "image_url": "/static/strawberry_lemonade.jpg",
+    "ingredients": ["1 cup Fresh Strawberries", "1 cup Lemon Juice", "1/2 cup Sugar", "4 cups Water", "Ice"],
+    "steps": [
+      { "title": "Simple Syrup", "text": "Dissolve sugar in one cup of warm water over low heat. Let this simple syrup cool completely to ensure the lemonade isn't gritty." },
+      { "title": "Strawberry Puree", "text": "Blend fresh strawberries with a splash of water until completely smooth. Strain through a fine-mesh sieve if you prefer a seedless drink." },
+      { "title": "Lemon Squeezing", "text": "Juice fresh lemons until you have one full cup. Fresh juice is significantly more vibrant and tart than bottled versions." },
+      { "title": "The Big Mix", "text": "In a large pitcher, combine the cold simple syrup, lemon juice, strawberry puree, and the remaining 3 cups of cold water." },
+      { "title": "Chill and Garnish", "text": "Stir vigorously and refrigerate for at least 1 hour. Serve over plenty of ice with lemon slices and fresh strawberry halves for garnish." }
+    ],
+    "explanation": "Summary: Making a simple syrup first ensures the sugar is perfectly incorporated, resulting in a smooth, professional texture."
+  },
+  {
+    "id": 63,
+    "title": "Chocolate Peanut Butter Shake",
+    "category": "Smoothies",
+    "badges": ["Kid Friendly"],
+    "description": "A decadent, ultra-thick milkshake that perfectly balances salty peanut butter and rich cocoa.",
+    "prep_time": "5 Mins", "cook_time": "0 Mins", "servings": "1 Person",
+    "image_url": "/static/chocolate_shake.jpg",
+    "ingredients": ["2 scoops Vanilla Ice Cream", "2 tbsp Peanut Butter", "1/4 cup Milk", "1 tbsp Cocoa Powder", "Chocolate Syrup"],
+    "steps": [
+      { "title": "Freezer Prep", "text": "Place your serving glass in the freezer for 10 minutes. A frosted glass keeps the thick shake from melting too quickly while you drink it." },
+      { "title": "Blender Loading", "text": "Add slightly softened vanilla ice cream, creamy peanut butter, and cocoa powder to the blender. Softening the ice cream makes for a smoother blend." },
+      { "title": "Liquid Control", "text": "Add a small amount of milk. Start with 1/4 cup; you can always add more later if you prefer a thinner consistency." },
+      { "title": "The Smooth Blend", "text": "Pulse until the peanut butter is fully incorporated, then blend on high for 20 seconds until the mixture is uniform and thick." },
+      { "title": "The Finale", "text": "Drizzle chocolate syrup inside the chilled glass. Pour in the shake and top with whipped cream and crushed peanuts for crunch." }
+    ],
+    "explanation": "Summary: A tiny pinch of salt added to the blender will heighten both the chocolate and peanut butter flavors for a gourmet finish."
+  },
+  {
+    "id": 64,
+    "title": "Garlic Butter Shrimp Pasta",
+    "category": "Seafood",
+    "badges": ["15 Minute Meals", "Dinner"],
+    "description": "Succulent shrimp and al dente linguine tossed in a luxurious, silky garlic-butter-wine reduction.",
+    "prep_time": "10 Mins", "cook_time": "10 Mins", "servings": "2 People",
+    "image_url": "/static/shrimp_pasta.jpg",
+    "ingredients": ["300g Shrimp", "250g Linguine", "4 tbsp Butter", "5 cloves Garlic", "White Wine", "Parsley"],
+    "steps": [
+      { "title": "Pasta Timing", "text": "Cook linguine in a large pot of heavily salted water. Aim for 1 minute less than 'al dente' as it will finish cooking in the sauce." },
+      { "title": "Shrimp Searing", "text": "Pat shrimp bone-dry and season with salt. Sauté in olive oil over high heat for only 90 seconds per side until just pink, then remove." },
+      { "title": "The Sauce Base", "text": "In the same pan, melt butter and sauté minced garlic until fragrant but not brown. Deglaze the pan with a splash of dry white wine." },
+      { "title": "The Emulsion", "text": "Add a 1/2 cup of starchy pasta water to the pan. Whisk vigorously as the liquid reduces to create a creamy, thick butter sauce." },
+      { "title": "Final Integration", "text": "Toss the pasta and shrimp into the sauce. Cook for 1 minute until the sauce clings to every strand. Garnish heavily with fresh parsley and lemon zest." }
+    ],
+    "explanation": "Summary: Searing the shrimp separately and using starchy pasta water ensures the protein stays tender while the sauce remains perfectly emulsified."
+  },
+  {
+    "id": 65,
+    "title": "Pan-Seared Scallops",
+    "category": "Seafood",
+    "badges": ["Dinner"],
+    "description": "Sweet, tender sea scallops with a shatteringly crisp golden crust, finished with lemon-chive butter.",
+    "prep_time": "5 Mins", "cook_time": "5 Mins", "servings": "2 People",
+    "image_url": "/static/scallops.jpg",
+    "ingredients": ["10 Sea Scallops", "2 tbsp Butter", "Lemon", "Garlic", "Fresh Chives"],
+    "steps": [
+      { "title": "The Dry Factor", "text": "Remove the small side muscle from each scallop. Pat them multiple times with paper towels until the surface is completely dry to ensure a good sear." },
+      { "title": "Smoke Point", "text": "Heat a stainless steel or cast-iron skillet with oil until it is shimmering and just beginning to smoke. High heat is essential for a crust." },
+      { "title": "The Hard Sear", "text": "Place scallops in the pan like a clock face. Press down gently and cook for exactly 2 minutes without moving them to develop a golden crust." },
+      { "title": "The Baste", "text": "Flip the scallops. Immediately add butter, a smashed garlic clove, and a squeeze of lemon juice. Spoon the foaming butter over the scallops for 1 minute." },
+      { "title": "Immediate Service", "text": "Remove from the pan immediately to stop the cooking. Scallops turn rubbery if overcooked. Garnish with chives and serve while the crust is hot." }
+    ],
+    "explanation": "Summary: Moisture is the enemy of a golden crust; achieving a restaurant-quality sear requires a bone-dry surface and a smoking-hot pan."
+  },
+  {
+    "id": 66,
+    "title": "Grilled Lobster Tail",
+    "category": "Seafood",
+    "badges": ["Slow Cooked", "Dinner"],
+    "description": "Succulent lobster meat butterflied over the shell and basted with a zesty smoked paprika garlic butter.",
+    "prep_time": "15 Mins", "cook_time": "10 Mins", "servings": "2 People",
+    "image_url": "/static/lobster_tail.jpg",
+    "ingredients": ["2 Lobster Tails", "4 tbsp Butter", "Paprika", "Garlic Powder", "Lemon"],
+    "steps": [
+      { "title": "The Butterfly", "text": "Use kitchen shears to cut down the center of the top shell. Gently pry the meat upward so it sits on top of the shell while staying attached at the base." },
+      { "title": "Basting Liquid", "text": "Melt butter and whisk in garlic powder, smoked paprika, and lemon juice. This seasoned butter will keep the lean meat moist on the hot grill." },
+      { "title": "Direct Heat", "text": "Place the tails meat-side down on a medium-high grill for 2 minutes to get a quick char and lock in the juices." },
+      { "title": "Indirect Steam", "text": "Flip the tails so the shells are on the grates. Brush the meat generously with the seasoned butter and close the grill lid." },
+      { "title": "The Opaque Finish", "text": "Grill for another 5-7 minutes until the meat is pearly white and opaque. Serve with charred lemon halves and extra butter for dipping." }
+    ],
+    "explanation": "Summary: Butterflying the meat onto the top of the shell protects it from direct heat, acting as a natural roasting rack for even cooking."
+  },
+  {
+    "id": 67,
+    "title": "Crispy Fish and Chips",
+    "category": "Seafood",
+    "badges": ["Budget Friendly", "Kid Friendly"],
+    "description": "Pub-style Atlantic cod in a light-as-air beer batter, served with double-fried potato wedges.",
+    "prep_time": "20 Mins", "cook_time": "15 Mins", "servings": "4 People",
+    "image_url": "/static/fish_and_chips.jpg",
+    "ingredients": ["500g Cod", "1 cup Flour", "1 cup Cold Beer", "4 Russet Potatoes", "Tartar Sauce"],
+    "steps": [
+      { "title": "Chip First-Fry", "text": "Cut potatoes into thick wedges. Fry at 325°F for 5 minutes until soft but not brown. Remove and drain; this ensures a fluffy interior." },
+      { "title": "Batter Aeration", "text": "Whisk flour, baking powder, and ice-cold beer until the texture is like heavy cream. The cold carbonation creates tiny air bubbles for a light crust." },
+      { "title": "Dredge and Coat", "text": "Pat cod fillets dry and dust with plain flour. Dip into the beer batter, letting the excess drip off so the coating isn't too thick." },
+      { "title": "The Golden Fry", "text": "Increase oil heat to 375°F. Fry the fish for 4-5 minutes until deep golden. Fry the chips a second time for 2 minutes until shatteringly crisp." },
+      { "title": "The Salt Shower", "text": "Immediately season both the fish and chips with flaky sea salt while they are still wet with oil. Serve with malt vinegar and tartar sauce." }
+    ],
+    "explanation": "Summary: The double-fry technique for chips and using ice-cold carbonated beer for the batter are the secrets to a professional pub-style texture."
+  },
+  {
+    "id": 68,
+    "title": "Seafood Paella",
+    "category": "Seafood",
+    "badges": ["Stew", "Dinner"],
+    "description": "Authentic Spanish rice featuring a vibrant saffron base, tender mussels, and shell-on tiger shrimp.",
+    "prep_time": "20 Mins", "cook_time": "40 Mins", "servings": "6 People",
+    "image_url": "/static/seafood_paella.jpg",
+    "ingredients": ["Arborio Rice", "Mussels", "Shrimp", "Saffron", "Peas", "Bell Peppers"],
+    "steps": [
+      { "title": "Saffron Infusion", "text": "Steep saffron threads in warm seafood broth for 10 minutes. This releases the deep golden color and floral aroma essential for paella." },
+      { "title": "The Sofrito", "text": "In a wide, shallow pan, sauté diced peppers, onions, and garlic until caramelized. Stir in tomato puree and cook until it forms a thick paste." },
+      { "title": "Rice Toasting", "text": "Add the arborio or bomba rice to the sofrito. Stir for 2 minutes to coat every grain in the flavorful oil before adding the saffron broth." },
+      { "title": "The No-Stir Rule", "text": "Once the broth is added, do not stir the rice again! This allows the 'socarrat'—a delicious crispy crust—to form on the bottom of the pan." },
+      { "title": "Seafood Steaming", "text": "When the rice is nearly done, nestle the shrimp and mussels into the surface. Cover and steam until the shrimp are pink and the mussels have opened." }
+    ],
+    "explanation": "Summary: Leaving the rice undisturbed is the only way to achieve the 'socarrat', which is considered the most prized part of an authentic paella."
+  },
+  {
+    "id": 69,
+    "title": "Crab Cakes with Remoulade",
+    "category": "Seafood",
+    "badges": ["One Pot", "Dinner"],
+    "description": "Lump crab meat held together with a minimum of binder, seared until golden and served with a tangy Cajun sauce.",
+    "prep_time": "20 Mins", "cook_time": "10 Mins", "servings": "3 People",
+    "image_url": "/static/crab_cakes.jpg",
+    "ingredients": ["Lump Crab Meat", "Panko", "Old Bay", "Dijon Mustard", "Mayo", "Lemon"],
+    "steps": [
+      { "title": "Gentle Folding", "text": "Mix mayo, Dijon, lemon, and Old Bay. Gently fold in the lump crab meat, being careful not to break the large, expensive crab chunks." },
+      { "title": "Minimum Binder", "text": "Add just enough panko breadcrumbs so the mixture holds its shape. Too much breading will mask the delicate flavor of the crab." },
+      { "title": "The Chill Set", "text": "Form into thick patties and refrigerate for 30 minutes. This allows the binder to hydrate and prevents the cakes from falling apart in the pan." },
+      { "title": "Golden Searing", "text": "Heat butter and oil in a skillet. Sear the cakes for 4 minutes per side until a deep golden-brown crust forms. Avoid flipping them more than once." },
+      { "title": "Zesty Finish", "text": "Serve hot with a house-made remoulade sauce (mayo, hot sauce, and pickles) and a wedge of fresh lemon to cut through the richness." }
+    ],
+    "explanation": "Summary: Chilling the patties before cooking and folding the crab gently are the keys to a cake that is all meat and no 'filler'."
+  },
+  {
+    "id": 70,
+    "title": "Chickpea Coconut Curry",
+    "category": "Vegan",
+    "badges": ["One Pot", "Budget Friendly"],
+    "description": "A creamy, protein-packed vegan curry with spiced chickpeas, baby spinach, and rich coconut milk.",
+    "prep_time": "10 Mins", "cook_time": "20 Mins", "servings": "4 People",
+    "image_url": "/static/chickpea_curry.jpg",
+    "ingredients": ["2 cans Chickpeas", "1 can Coconut Milk", "Turmeric", "Coriander", "Ginger", "Spinach"],
+    "steps": [
+      { "title": "Aromatic Start", "text": "Sauté onions, garlic, and freshly grated ginger in coconut oil until soft and translucent to create a sweet, fragrant base." },
+      { "title": "Spice Toasting", "text": "Add turmeric, cumin, and coriander to the oil. Stir for 1 minute until the spices 'bloom' and release their full aromatic potential." },
+      { "title": "Creamy Simmer", "text": "Pour in full-fat coconut milk and the rinsed chickpeas. Season with salt and a pinch of sugar to balance the earthy spices." },
+      { "title": "Thickening Secret", "text": "Let the curry simmer for 15 minutes. Use a wooden spoon to crush a handful of chickpeas against the side of the pot to thicken the sauce naturally." },
+      { "title": "The Green Wilt", "text": "Stir in three large handfuls of baby spinach at the very end. The residual heat will wilt the greens in seconds while keeping them bright green." }
+    ],
+    "explanation": "Summary: Crushing some of the chickpeas releases natural starches that create a thick, restaurant-quality gravy without the need for flour."
+  },
+  {
+    "id": 71,
+    "title": "Lentil Shepherd's Pie",
+    "category": "Vegan",
+    "badges": ["Slow Cooked", "Dinner"],
+    "description": "A comforting plant-based twist on the classic, with savory red wine lentils topped with olive oil-mashed potatoes.",
+    "prep_time": "20 Mins", "cook_time": "45 Mins", "servings": "6 People",
+    "image_url": "/static/lentil_pie.jpg",
+    "ingredients": ["Brown Lentils", "Carrots", "Potatoes", "Vegetable Broth", "Tomato Paste", "Red Wine"],
+    "steps": [
+      { "title": "Filling Flavor", "text": "Sauté carrots, celery, and onions. Stir in tomato paste and cook until it darkens to a deep rust color for a savory 'umami' boost." },
+      { "title": "The Braise", "text": "Add brown lentils, red wine, and veggie broth. Simmer until the lentils are tender and the liquid has reduced into a thick, glossy gravy." },
+      { "title": "Dairy-Free Mash", "text": "Boil potatoes until soft. Mash with high-quality extra virgin olive oil and a splash of the potato cooking water for a creamy, dairy-free texture." },
+      { "title": "The Stacking", "text": "Spread the lentil mixture in a baking dish. Top with the mashed potatoes and use a fork to create ridges across the surface." },
+      { "title": "The Crisp Bake", "text": "Bake at 400°F for 20 minutes. Finish under the broiler for 2 minutes so the ridges on the potatoes become golden and crispy." }
+    ],
+    "explanation": "Summary: Ridging the potatoes with a fork increases the surface area, resulting in more crispy, golden-brown bits after baking."
+  },
+  {
+    "id": 72,
+    "title": "Vegan Buddha Bowl",
+    "category": "Vegan",
+    "badges": ["15 Minute Meals", "Budget Friendly"],
+    "description": "A high-protein harmony of fluffy quinoa, cumin-roasted sweet potatoes, and a zesty lemon-tahini dressing.",
+    "prep_time": "15 Mins", "cook_time": "20 Mins", "servings": "2 People",
+    "image_url": "/static/vegan_buddha_bowl.jpg",
+    "ingredients": ["Quinoa", "Sweet Potato", "Kale", "Tahini", "Chickpeas", "Lemon"],
+    "steps": [
+      { "title": "Fluffy Grains", "text": "Rinse quinoa to remove bitterness. Boil in vegetable broth rather than water to ensure the base layer of the bowl is full of flavor." },
+      { "title": "Roasting Foundations", "text": "Toss sweet potato cubes and chickpeas with cumin and oil. Roast at 400°F until the potatoes are tender and the chickpeas are crunchy." },
+      { "title": "Kale Massage", "text": "Place chopped kale in a bowl with lemon juice and a pinch of salt. Massage with your hands for 2 minutes to soften the leaves." },
+      { "title": "The Dressing", "text": "Whisk tahini, lemon juice, minced garlic, and a splash of warm water. The water helps the tahini reach a perfect, pourable consistency." },
+      { "title": "Artful Assembly", "text": "Arrange the ingredients in sections over the quinoa. Top with avocado slices and a generous drizzle of the creamy tahini dressing." }
+    ],
+    "explanation": "Summary: Massaging the kale with lemon juice is a vital step that breaks down tough fibers, making the greens tender and easier to digest."
+  },
+  {
+    "id": 73,
+    "title": "Mushroom Walnut Tacos",
+    "category": "Vegan",
+    "badges": ["15 Minute Meals", "Kid Friendly"],
+    "description": "A remarkably 'meaty' vegan taco filling made from pulsed mushrooms and walnuts seasoned with traditional Mexican spices.",
+    "prep_time": "10 Mins", "cook_time": "10 Mins", "servings": "3 People",
+    "image_url": "/static/mushroom_tacos.jpg",
+    "ingredients": ["Mushrooms", "Walnuts", "Cumin", "Corn Tortillas", "Lime", "Cilantro"],
+    "steps": [
+      { "title": "The Mince", "text": "Pulse fresh mushrooms and walnuts in a food processor until they are the size of small crumbles. Do not over-process into a paste." },
+      { "title": "Moisture Removal", "text": "Sauté the mixture in a dry pan over medium-high heat first. This allows the mushrooms to release and evaporate their water before adding oil." },
+      { "title": "Spice Blooming", "text": "Add oil, cumin, chili powder, and garlic. Stir-fry for 5 minutes until the crumbles become dark, savory, and slightly crispy at the edges." },
+      { "title": "Tortilla Char", "text": "Briefly toast corn tortillas over a gas flame until the edges are slightly charred and the bread is pliable and warm." },
+      { "title": "The Garnish", "text": "Fill the shells with the mushroom-walnut meat. Top with fresh white onion, cilantro, and a heavy squeeze of lime juice." }
+    ],
+    "explanation": "Summary: Sautéing the mushrooms in a dry pan first is the professional secret to achieving a firm, 'meaty' texture rather than a soggy one."
+  },
+  {
+    "id": 74,
+    "title": "Crispy Tofu Stir Fry",
+    "category": "Vegan",
+    "badges": ["One Pot"],
+    "description": "Extra-firm tofu pressed to perfection and tossed with vibrant broccoli in a sticky ginger-soy glaze.",
+    "prep_time": "15 Mins", "cook_time": "15 Mins", "servings": "2 People",
+    "image_url": "/static/tofu_stirfry.jpg",
+    "ingredients": ["Extra Firm Tofu", "Broccoli", "Soy Sauce", "Sesame Oil", "Ginger", "Cornstarch"],
+    "steps": [
+      { "title": "The Deep Press", "text": "Wrap tofu in a towel and place a heavy weight on top for 15 minutes. Removing internal moisture is the only way to get tofu truly crispy." },
+      { "title": "The Starch Coat", "text": "Cube the pressed tofu and toss gently with cornstarch and salt. The starch creates a paper-thin, crackly crust during frying." },
+      { "title": "Pan Frying", "text": "Fry the tofu in a single layer with sesame oil. Cook until all sides are deep golden and firm to the touch, then remove." },
+      { "title": "Glaze Creation", "text": "In the same pan, sauté broccoli and ginger. Pour in a mix of soy sauce, maple syrup, and rice vinegar, simmering until sticky." },
+      { "title": "The Final Toss", "text": "Return the tofu to the pan. Toss rapidly to coat every piece in the glaze before serving over steamed jasmine rice." }
+    ],
+    "explanation": "Summary: Pressing the tofu and using a cornstarch coating are the two mandatory steps for achieving a professional, non-mushy stir-fry texture."
+  },
+  {
+    "id": 75,
+    "title": "Cauliflower Steak",
+    "category": "Vegan",
+    "badges": ["Dinner"],
+    "description": "Thick-cut roasted cauliflower slabs with charred edges, topped with a vibrant, garlicky chimichurri sauce.",
+    "prep_time": "10 Mins", "cook_time": "30 Mins", "servings": "2 People",
+    "image_url": "/static/cauliflower_steak.jpg",
+    "ingredients": ["1 head Cauliflower", "Parsley", "Garlic", "Olive Oil", "Red Wine Vinegar"],
+    "steps": [
+      { "title": "The Center Cut", "text": "Remove the leaves but keep the core intact. Slice the cauliflower through the center into 1-inch thick 'steaks' so the core holds the florets together." },
+      { "title": "High Heat Roast", "text": "Brush both sides with oil and salt. Roast at 425°F on a preheated baking sheet for 15 minutes per side until the edges are dark brown." },
+      { "title": "Chimichurri Prep", "text": "While the steaks roast, finely mince fresh parsley, garlic, and red chili. Mix with olive oil and red wine vinegar." },
+      { "title": "The Herb Bloom", "text": "Let the sauce sit for 10 minutes. This allows the vinegar to soften the raw garlic and infuse the oil with the fresh herb flavor." },
+      { "title": "The Presentation", "text": "Place the hot, charred cauliflower on a plate. Spoon the vibrant green chimichurri generously over the top and serve immediately." }
+    ],
+    "explanation": "Summary: Preheating the baking sheet ensures the cauliflower begins searing the moment it touches the metal, resulting in a deeper, nuttier flavor."
+  }
+]
