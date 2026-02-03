@@ -90,7 +90,7 @@ const SearchWrapper = () => {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/My-Recipe-Book-Website">
       <div className="d-flex flex-column min-vh-100">
         <Navbar />
         <main className="flex-grow-1" style={{ marginTop: '80px' }}> {/* Added margin for fixed Navbar */}
