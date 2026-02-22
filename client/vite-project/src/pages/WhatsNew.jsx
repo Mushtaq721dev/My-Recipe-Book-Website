@@ -1,5 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+// Step A: Import a placeholder image in case the "New Arrival" images fail to load
+import placeholderImg from '../static/food.jpg'; 
 
 const WhatsNew = ({ featured, others = [] }) => {
   // Guard clause to ensure we have data before rendering
@@ -7,14 +9,14 @@ const WhatsNew = ({ featured, others = [] }) => {
 
   return (
     <div className="container my-5 pt-5">
-      {/* Featured Header Section - Replaces the top hero in whats_new.html */}
+      {/* Featured Header Section */}
       <div 
         className="p-5 mb-5 bg-dark text-white rounded-5 position-relative overflow-hidden cd" 
         style={{ minHeight: '400px' }}
       >
-        {/* Featured Image using dynamic image_url path */}
+        {/* Featured Image with Fallback */}
         <img 
-          src={featured.image_url} 
+          src={featured.image_url || placeholderImg} 
           style={{ 
             position: 'absolute', 
             top: 0, 
@@ -25,6 +27,8 @@ const WhatsNew = ({ featured, others = [] }) => {
             opacity: 0.4 
           }} 
           alt={featured.title}
+          // Error handling: if the featured link is broken, show the fallback
+          onError={(e) => { e.target.src = placeholderImg; }}
         />
         
         <div className="position-relative z-1 d-flex flex-column justify-content-center h-100 px-lg-5">
@@ -46,7 +50,7 @@ const WhatsNew = ({ featured, others = [] }) => {
         Trending This Week
       </h3>
       
-      {/* Trending List Section - Alternating rows logic preserved */}
+      {/* Trending List Section */}
       <div className="d-flex flex-column gap-5">
         {others.map((recipe, index) => (
           <div 
@@ -56,9 +60,11 @@ const WhatsNew = ({ featured, others = [] }) => {
             <div className="col-md-6">
               <div className="rounded-5 overflow-hidden shadow-lg" style={{ height: '300px' }}>
                 <img 
-                  src={recipe.image_url} 
+                  src={recipe.image_url || placeholderImg} 
                   style={{ width: '100%', height: '100%', objectFit: 'cover' }} 
                   alt={recipe.title} 
+                  // Error handling for trending images
+                  onError={(e) => { e.target.src = placeholderImg; }}
                 />
               </div>
             </div>

@@ -1,5 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+// Step A: Import a placeholder image in case the database image fails to load
+import placeholderImg from '../static/food.jpg';
 
 const RecipeDetail = ({ recipe }) => {
   // If recipe data hasn't loaded yet, return null or a loading state
@@ -36,10 +38,13 @@ const RecipeDetail = ({ recipe }) => {
                 style={{ transform: 'rotate(-2deg)', opacity: 0.1, zIndex: -1 }}
               ></div>
               <img 
-                src={recipe.image_url} // Fixed: Matching the image_url key in your data
+                // Step B: Use the recipe URL, or the imported fallback if it's missing
+                src={recipe.image_url || placeholderImg} 
                 alt={recipe.title} 
                 className="img-fluid rounded-5 shadow w-100" 
                 style={{ objectFit: 'cover', minHeight: '400px', maxHeight: '500px' }} 
+                // Error handling: if the specific image link is broken, show the fallback
+                onError={(e) => { e.target.src = placeholderImg; }}
               />
             </div>
           </div>

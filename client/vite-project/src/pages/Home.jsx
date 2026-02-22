@@ -1,6 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { Link } from 'react-router-dom';
+import logo from '../assets/cropped_circle_image.png';
+
+// --- STEP A: IMPORT NECESSARY IMAGES ---
+import homeBanner from '../static/home.jpg';
+import flavorsBanner from '../static/3.jpg';
+import discoverBanner from '../static/food.jpg';
 
 const Home = () => {
   const [data, setData] = useState({ 
@@ -10,6 +16,8 @@ const Home = () => {
   });
 
   useEffect(() => {
+    // NOTE: 'localhost:5000' will NOT work on the live GitHub link.
+    // You will eventually need to replace this with your deployed backend URL.
     axios.get('http://localhost:5000/api/home')
       .then(res => setData(res.data))
       .catch(err => console.error(err));
@@ -33,10 +41,12 @@ const Home = () => {
               <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="2" style={{ backgroundColor: '#c4a4c4' }}></button>
             </div>
             <div className="carousel-inner">
+              {/* Slide 1 */}
               <div className="carousel-item active">
                 <div className="hero-slide-content rounded-5 overflow-hidden position-relative">
                   <div className="cd">
-                    <img src="/static/home.jpg" alt="Home Banner" className="card-img rounded-5 border-0" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+                    {/* --- STEP B: USE IMPORTED VARIABLE --- */}
+                    <img src={homeBanner} alt="Home Banner" className="card-img rounded-5 border-0" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
                   </div>
                   <div className="word-up card-img-overlay bg-dark bg-opacity-50 d-flex flex-column justify-content-center align-items-center font-sans-serif rounded-5">
                     <h1 className="display-5 fw-semibold">Cook. Taste. Repeat.</h1>
@@ -45,10 +55,12 @@ const Home = () => {
                 </div>
               </div>
 
+              {/* Slide 2 */}
               <div className="carousel-item">
                 <div className="hero-slide-content rounded-5 overflow-hidden position-relative">
                   <div className="cd">
-                    <img src="/static/3.jpg" className="card-img rounded-5 border-0" style={{ width: '100%', height: '100%', objectFit: 'cover' }} alt="Home Banner" />
+                    {/* --- STEP B: USE IMPORTED VARIABLE --- */}
+                    <img src={flavorsBanner} className="card-img rounded-5 border-0" style={{ width: '100%', height: '100%', objectFit: 'cover' }} alt="Home Banner" />
                   </div>
                   <div className="word-up card-img-overlay bg-dark bg-opacity-50 d-flex flex-column justify-content-center align-items-center font-sans-serif rounded-5">
                     <h1 className="display-5 fw-semibold text-center">75 Recipes. Infinite Flavors.</h1>
@@ -57,10 +69,12 @@ const Home = () => {
                 </div>
               </div>
 
+              {/* Slide 3 */}
               <div className="carousel-item">
                 <div className="hero-slide-content rounded-5 overflow-hidden position-relative">
                   <div className="cd">
-                    <img src="/static/food.jpg" className="card-img rounded-5 border-0" style={{ width: '100%', height: '100%', objectFit: 'cover' }} alt="Discover More" />
+                    {/* --- STEP B: USE IMPORTED VARIABLE --- */}
+                    <img src={discoverBanner} className="card-img rounded-5 border-0" style={{ width: '100%', height: '100%', objectFit: 'cover' }} alt="Discover More" />
                   </div>
                   <div className="word-up card-img-overlay bg-dark bg-opacity-60 d-flex flex-column justify-content-center align-items-center font-sans-serif rounded-5">
                     <h1 className="display-5 fw-semibold">Your Next Favorite Meal</h1>
@@ -188,7 +202,6 @@ const Home = () => {
                 ))}
               </div>
             </div>
-            {/* Added back Slide 2 */}
             <div className="carousel-item">
               <div className="row g-4">
                 {data.quick_picks.slice(4, 8).map((recipe) => (
@@ -212,7 +225,6 @@ const Home = () => {
               </div>
             </div>
           </div>
-          {/* Added back the side buttons */}
           <button className="rail-arrow-btn start-0" type="button" data-bs-target="#quickPicksCarousel" data-bs-slide="prev">
             <span>&lt;</span>
           </button>

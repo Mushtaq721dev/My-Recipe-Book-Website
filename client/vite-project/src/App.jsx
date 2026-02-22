@@ -8,7 +8,7 @@ import Footer from './components/Footer';
 
 // Import Page Components
 import Home from './pages/Home';
-import RecipeDetail from './pages/RecipedDetail';
+import RecipeDetail from './pages/RecipeDetail';
 import RecipeGrid from './pages/grid_layout';
 import WhatsNew from './pages/WhatsNew';
 

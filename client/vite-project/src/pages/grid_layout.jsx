@@ -1,5 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+// Step A: Import a fallback image in case a recipe image is missing
+import placeholderImg from '../static/food.jpg'; 
 
 const RecipeGrid = ({ recipes, title, subtitle }) => {
   return (
@@ -11,21 +13,23 @@ const RecipeGrid = ({ recipes, title, subtitle }) => {
         <hr className="w-25 mx-auto text-primary" style={{ opacity: 1 }} />
       </div>
 
-      {/* Grid Section - This is where the {% for %} loop lived */}
+      {/* Grid Section */}
       <div className="row row-cols-1 row-cols-md-3 g-4">
         {recipes.map((recipe) => (
           <div className="col" key={recipe.id}>
-            {/* The <a> tag becomes <Link> for faster React navigation */}
             <Link 
               to={`/recipe/${recipe.id}`} 
               className="card h-100 shadow-sm border-0 rounded-4 overflow-hidden text-decoration-none text-reset transition-hover cd"
             >
               <div style={{ height: '250px', overflow: 'hidden' }}>
                 <img 
-                  src={recipe.image_url} 
+                  // Step B: Use the recipe URL, or the imported fallback if it's missing
+                  src={recipe.image_url || placeholderImg} 
                   className="card-img-top" 
                   alt={recipe.title} 
                   style={{ width: '100%', height: '100%', objectFit: 'cover' }} 
+                  // Error handling: if the link is broken, show the fallback
+                  onError={(e) => { e.target.src = placeholderImg; }}
                 />
               </div>
               
@@ -41,7 +45,8 @@ const RecipeGrid = ({ recipes, title, subtitle }) => {
                 
                 <h5 className="card-title fw-bold text-dark">{recipe.title}</h5>
                 <p className="card-text text-muted small flex-grow-1">
-                  {recipe.description.substring(0, 80)}...
+                  {/* Added a check to prevent errors if description is missing */}
+                  {recipe.description ? recipe.description.substring(0, 80) : "No description available"}...
                 </p>
                 
                 <div className="btn btn-outline-dark mt-auto rounded-pill w-100">View Recipe</div>
@@ -51,7 +56,6 @@ const RecipeGrid = ({ recipes, title, subtitle }) => {
         ))}
       </div>
 
-      {/* Inline Styles are now written as CSS in JS or moved to your index.css */}
       <style>
         {`
           .transition-hover {

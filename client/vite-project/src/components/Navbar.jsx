@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
+import logo from '../assets/cropped_circle_image.png';
 
 const Navbar = () => {
   const [query, setQuery] = useState("");
@@ -8,7 +9,6 @@ const Navbar = () => {
   const handleSearch = (e) => {
     e.preventDefault();
     if (query.trim()) {
-
       navigate(`/search?q=${encodeURIComponent(query)}`);
       setQuery(""); 
     }
@@ -20,7 +20,7 @@ const Navbar = () => {
         {/* Brand/Logo Section */}
         <Link className="navbar-brand" to="/">
           <img 
-            src="/static/cropped_circle_image.png" 
+            src={logo}  /* FIXED: Changed from "/static/..." to {logo} */
             alt="MyRecipeBook Logo"
             height="50" 
             width="50" 
