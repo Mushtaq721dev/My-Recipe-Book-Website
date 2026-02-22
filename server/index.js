@@ -1,11 +1,19 @@
 const express = require('express');
 const cors = require('cors');
+
+
 const fs = require('fs');
 const app = express();
-const PORT = 5000;
+const PORT = process.env.PORT || 5000; 
+
+
+
 
 // Enable CORS so your React frontend can communicate with this server
-app.use(cors());
+// This ensures only your live website can access this backend
+app.use(cors({
+  origin: "https://mushtaq721dev.github.io" 
+}));
 app.use(express.json());
 
 // Load your recipe data from the JSON file
@@ -87,6 +95,4 @@ app.post('/api/subscribe', (req, res) => {
     }
 });
 
-app.listen(PORT, () => {
-    console.log(`Server is running on http://localhost:${PORT}`);
-});
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
