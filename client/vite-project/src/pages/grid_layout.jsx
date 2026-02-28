@@ -1,7 +1,10 @@
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 // Step A: Import a fallback image in case a recipe image is missing
 import placeholderImg from '../static/food.jpg'; 
+
+const API_BASE_URL = "https://my-recipe-book-website.vercel.app";
 
 const RecipeGrid = ({ recipes, title, subtitle }) => {
   return (

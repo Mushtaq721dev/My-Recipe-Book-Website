@@ -3,6 +3,8 @@ import { Link } from 'react-router-dom';
 // Step A: Import a placeholder image in case the database image fails to load
 import placeholderImg from '../static/food.jpg';
 
+const API_BASE_URL = "https://my-recipe-book-website.vercel.app";
+
 const RecipeDetail = ({ recipe }) => {
   // If recipe data hasn't loaded yet, return null or a loading state
   if (!recipe) return <div className="container mt-5">Loading...</div>;

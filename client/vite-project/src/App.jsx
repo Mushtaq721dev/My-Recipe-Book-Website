@@ -12,6 +12,7 @@ import RecipeDetail from './pages/RecipeDetail';
 import RecipeGrid from './pages/grid_layout';
 import WhatsNew from './pages/WhatsNew';
 
+const API_BASE_URL = "https://my-recipe-book-website.vercel.app";
 // --- WRAPPERS FOR DYNAMIC PAGES ---
 
 const RecipeDetailWrapper = () => {
@@ -19,7 +20,7 @@ const RecipeDetailWrapper = () => {
   const [recipe, setRecipe] = useState(null);
 
   useEffect(() => {
-    axios.get(`http://localhost:5000/api/recipe/${id}`)
+    axios.get(`${API_BASE_URL}/api/recipe/${id}`)
       .then(res => setRecipe(res.data))
       .catch(err => console.error(err));
   }, [id]);
@@ -32,7 +33,7 @@ const CategoryWrapper = () => {
   const [data, setData] = useState({ recipes: [], title: '', subtitle: '' });
 
   useEffect(() => {
-    axios.get(`http://localhost:5000/api/category/${name}`)
+    axios.get(`${API_BASE_URL}/api/category/${name}`)
       .then(res => setData(res.data))
       .catch(err => console.error(err));
   }, [name]);
@@ -44,7 +45,7 @@ const WhatsNewWrapper = () => {
   const [data, setData] = useState({ featured: null, others: [] });
 
   useEffect(() => {
-    axios.get('http://localhost:5000/api/whats-new')
+    axios.get(`${API_BASE_URL}/api/whats-new`)
       .then(res => setData(res.data))
       .catch(err => console.error(err));
   }, []);
@@ -62,7 +63,7 @@ const SearchWrapper = () => {
 
   useEffect(() => {
     // We fetch the full list from the updated /api/home route
-    axios.get('http://localhost:5000/api/home')
+    axios.get(`${API_BASE_URL}/api/home`)
       .then(res => setAllRecipes(res.data.menu))
       .catch(err => console.error("Search fetch error:", err));
   }, []);

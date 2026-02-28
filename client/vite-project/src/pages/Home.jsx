@@ -8,6 +8,8 @@ import homeBanner from '../static/home.jpg';
 import flavorsBanner from '../static/3.jpg';
 import discoverBanner from '../static/food.jpg';
 
+const API_BASE_URL = "https://my-recipe-book-website.vercel.app";
+
 const Home = () => {
   const [data, setData] = useState({ 
     latest: [], 
@@ -18,7 +20,7 @@ const Home = () => {
   useEffect(() => {
     // NOTE: 'localhost:5000' will NOT work on the live GitHub link.
     // You will eventually need to replace this with your deployed backend URL.
-    axios.get('http://localhost:5000/api/home')
+    axios.get(`${API_BASE_URL}/api/home`)
       .then(res => setData(res.data))
       .catch(err => console.error(err));
   }, []);

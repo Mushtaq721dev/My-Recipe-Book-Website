@@ -4,6 +4,8 @@ import axios from 'axios';
 // STEP A: Import the logo image just like in the Navbar and Home
 import logo from '../assets/cropped_circle_image.png';
 
+const API_BASE_URL = "https://my-recipe-book-website.vercel.app";
+
 const Footer = () => {
   
   const [email, setEmail] = useState('');
@@ -13,7 +15,7 @@ const Footer = () => {
     e.preventDefault();
     try {
       // Note: This localhost URL will only work while your backend is running locally
-      const response = await axios.post('http://localhost:5000/api/subscribe', { email });
+      const response = await axios.post(`${API_BASE_URL}/api/subscribe`, { email });
       setStatusMessage(response.data.message); 
       setEmail(''); 
     } catch (err) {

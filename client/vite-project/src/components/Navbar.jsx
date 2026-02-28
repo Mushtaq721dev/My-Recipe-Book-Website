@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import logo from '../assets/cropped_circle_image.png';
 
+const API_BASE_URL = "https://my-recipe-book-website.vercel.app";
+
 const Navbar = () => {
   const [query, setQuery] = useState("");
   const navigate = useNavigate();

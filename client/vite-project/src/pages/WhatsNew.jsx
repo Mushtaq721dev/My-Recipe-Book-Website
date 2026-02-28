@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 // Step A: Import a placeholder image in case the "New Arrival" images fail to load
 import placeholderImg from '../static/food.jpg'; 
+const API_BASE_URL = "https://my-recipe-book-website.vercel.app";
 
 const WhatsNew = ({ featured, others = [] }) => {
   // Guard clause to ensure we have data before rendering
