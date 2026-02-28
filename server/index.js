@@ -1,3 +1,4 @@
+const path = require('path');
 const express = require('express');
 const cors = require('cors');
 
@@ -16,8 +17,8 @@ app.use(cors({
 }));
 app.use(express.json());
 
-// Load your recipe data from the JSON file
-const recipes = JSON.parse(fs.readFileSync('./data/recipes.json', 'utf8'));
+const recipesPath = path.join(process.cwd(), 'data', 'recipes.json');
+const recipes = JSON.parse(fs.readFileSync(recipesPath, 'utf8'));
 
 
 // 1. HOME API: Returns latest, quick picks, and menu items
@@ -69,7 +70,8 @@ app.get('/api/whats-new', (req, res) => {
 
 app.post('/api/subscribe', (req, res) => {
     const { email } = req.body;
-    const filePath = './data/subscribers.json'; 
+
+    const filePath = path.join(process.cwd(), 'data', 'subscribers.json'); 
 
     try {
         
